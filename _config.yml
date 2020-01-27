@@ -12,7 +12,7 @@ gems: [jekyll-paginate]
 # Setup
 title:            DBremont
 tagline:          'My Personal Blog'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Hello! I'm Daniel Victoriano Bremont. Welcome to my blog.'
 url:              https://blog.dbremont.dev/
 baseurl:          
 plugins: [jekyll-paginate]
