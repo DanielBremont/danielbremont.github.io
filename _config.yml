@@ -14,7 +14,7 @@ title:            DBremont
 tagline:          'My Personal Blog'
 description:      "Hello! I'm Daniel Victoriano Bremont. Welcome to my blog."
 url:              https://blog.dbremont.dev/
-baseurl:          
+baseurl:          /
 plugins: [jekyll-paginate]
 
 
