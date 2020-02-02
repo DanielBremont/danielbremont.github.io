@@ -1,7 +1,9 @@
 # Hyde
 docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle"  -it jekyll/jekyll:latest jekyll build
 
-docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle"  -it --name jblog -p 4000:4000 jekyll/jekyll:latest bundle exec jekyll s 
+docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle"  -it --name jblog -p 4000:4000 jekyll/jekyll:latest jekyll s 
+
+git push -u origin master
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
