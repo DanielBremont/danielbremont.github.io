@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post by Topic
+title: Posts by Topic
 ---
 
 <p class="message">
