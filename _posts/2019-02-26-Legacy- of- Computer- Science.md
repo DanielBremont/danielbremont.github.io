@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Legacy of Computer Science
+tags: [hot, summer]
 ---
 
-﻿* Notes on The Legacy of Computer Science acordding Gerald J. Sussman
+* Notes on The Legacy of Computer Science acordding Gerald J. Sussman 
+
+<!--more-->
 
 * A programming is an idea about a methodology(At least an algorithm).
 
@@ -79,3 +82,4 @@ title: Legacy of Computer Science
 * Does a program describe knolege?
  * If the program is a descriptio of a representatino of an algorithm, yes it its.
   
+Thanks for reading!

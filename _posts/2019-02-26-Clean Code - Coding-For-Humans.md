@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clean Code - Coding for Humans
+tags: [hot, summer]
 ---
 
 Introduction:
@@ -8,6 +9,8 @@ Introduction:
  - Solid Code
  - Refactoring | Automated Test
  - TDD | DDD
+
+<!--more-->
 
 Books :
  - Code Complete
@@ -156,3 +159,5 @@ Zoombie code : Codigo comentado, para eso usar control de versiones.
 Refactor the code that need to be change.
 
 The boy scote rule : Always leve the code a litle bit better than you fount it!
+
+Thanks for reading!

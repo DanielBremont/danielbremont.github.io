@@ -1,11 +1,9 @@
 # Dependencies
-# markdown:       redcarpet
 markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 gems: [jekyll-paginate]
 
@@ -16,16 +14,17 @@ description:      "Hello! I'm Daniel Victoriano Bremont. Welcome to my blog."
 url:              https://blog.dbremont.dev/
 baseurl:          /
 plugins: [jekyll-paginate]
+excerpt_separator: <!--more-->
 
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Daniel Victorino Bremont'
+  url:            https://blog.dbremont.dev/
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/poole/hyde
