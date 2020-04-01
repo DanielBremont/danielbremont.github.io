@@ -9,8 +9,8 @@ gems: [jekyll-paginate]
 
 # Setup
 title:            DBremont
-tagline:          'My Personal Blog'
-description:      "Hello! I'm Daniel Victoriano Bremont. Welcome to my blog."
+tagline:          'My Personal Log/Blog'
+description:      "Hello! I'm Daniel Victoriano Bremont. Welcome to my log/blog."
 url:              https://blog.dbremont.dev/
 baseurl:          /
 plugins: [jekyll-paginate]

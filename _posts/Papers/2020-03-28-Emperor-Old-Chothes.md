@@ -9,7 +9,6 @@ tags: [conocimiento, paper, saber, cs]
 Authors:
     - Antony Richard Hoare
 
-
 Intro
 
 The tailor is canonized as the patron saint of all consultants, because in spite of the enormous fees that he extracted, he was never able to convince his clients of his dawning realization that their clothes have no Emperor.
