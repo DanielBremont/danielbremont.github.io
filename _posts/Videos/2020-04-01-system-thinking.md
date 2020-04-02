@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Thinking
-tags: [article, systems]
+tags: [video, systems]
 ---
 
 [Systems Thinking Speech](https://www.youtube.com/watch?v=EbLh7rZ3rhU)

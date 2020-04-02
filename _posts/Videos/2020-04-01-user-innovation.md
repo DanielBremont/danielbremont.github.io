@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open and User Innovation
-tags: [article, systems]
+tags: [video, systems]
 ---
 
 [Open and User Innovation](https://www.youtube.com/watch?v=pxvd4obm8XM)

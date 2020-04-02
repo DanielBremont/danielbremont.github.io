@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legacy of Computer Science
-tags: [hot, summer]
+tags: [article, cs]
 ---
 
 * Notes on The Legacy of Computer Science acordding Gerald J. Sussman 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Web-based Analysis & Simulation Platforms | PyData London 2017
-tags: [article, python, cs]
+tags: [video, python, cs]
 ---
 
 [James Powell: Building Web-based Analysis & Simulation Platforms](https://www.youtube.com/watch?v=eEXKIp8h0T0)

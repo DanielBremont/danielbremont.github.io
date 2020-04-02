@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean Code - Coding for Humans
-tags: [hot, summer]
+tags: [articles, cs]
 ---
 
 Introduction:
