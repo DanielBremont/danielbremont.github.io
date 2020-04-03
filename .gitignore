@@ -29,6 +29,7 @@ nbproject
 *.sublime-workspace
 .idea
 Makefile
+Notas
 
 # Komodo
 *.komodoproject
