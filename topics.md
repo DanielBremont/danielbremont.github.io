@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts by Topic
+title: Tópicos
 ---
 <ul>
 {% for tags in site.tags %}

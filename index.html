@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Inicio
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts limit:5 %}
     {% if post.tags[0] != null%}
       <div class="post">
         <h1 class="post-title">
@@ -30,7 +30,7 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
@@ -45,4 +45,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->

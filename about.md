@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Sobre mí
 ---
 
 <h3 id="bio-name">Daniel Victoriano Bremont</h3>
@@ -23,7 +23,7 @@ title: About me
 </div>
 
 <h3>
-    <a href="/w_projects/">
+    <a href="/projects/">
         What to know my projects?
     </a>yo
 </h3>
@@ -36,8 +36,3 @@ title: About me
 <span class="author">Martin Fowler</span>
 
 <br>
-Thanks for reading!
-
-</body>
-
-</html>
