@@ -1,0 +1,22 @@
+---
+layout: page
+title: Personas
+---
+
+Me interesa conocer su trabajo:
+
+- [Philip Guo](http://pgbovine.net/)
+- [Julien Danjou](https://julien.danjou.info/)
+- [Matei Zaharia](https://cs.stanford.edu/people/matei/)
+- [Cesar Hidalgo](https://chidalgo.com/)
+- [BG Fogg](https://www.bjfogg.com/)
+- [Don Norman](https://jnd.org/)
+- [Leo Breiman](https://www.stat.berkeley.edu/~breiman/)
+- [Nassim Nicholas Taleb](https://www.fooledbyrandomness.com/)
+- [Ha-Joon Chang](http://hajoonchang.net/)
+- [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
+- [Daniel Kirsch](http://danielkirs.ch/)
+- [François Chollet](https://fchollet.com/)
+- [Tomas Perez Vejo](https://inah.academia.edu/TomasPerezVejo/Papers)
+- [Kira Radinsky ](http://www.kiraradinsky.com/)
+- [Mariana Mazzucato](https://marianamazzucato.com/)
