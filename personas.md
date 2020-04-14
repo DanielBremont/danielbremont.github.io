@@ -20,3 +20,4 @@ Me interesa conocer su trabajo:
 - [Tomas Perez Vejo](https://inah.academia.edu/TomasPerezVejo/Papers)
 - [Kira Radinsky ](http://www.kiraradinsky.com/)
 - [Mariana Mazzucato](https://marianamazzucato.com/)
+- [Steven Pinker](https://stevenpinker.com/)s
