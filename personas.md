@@ -21,3 +21,4 @@ Me interesa conocer su trabajo:
 - [Kira Radinsky ](http://www.kiraradinsky.com/)
 - [Mariana Mazzucato](https://marianamazzucato.com/)
 - [Steven Pinker](https://stevenpinker.com/)
+- [Stephen Wolfram](https://www.stephenwolfram.com/)
