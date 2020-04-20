@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Categorias
+date: 2020-01-01 00:00:00
 ---
 
 **Post :** {{site.posts | size}}
+
 <ul>
 {% for cats in site.categories %}
   <li><a href="#{{cats[0]}}">{{ cats[0] }} ({{ cats[1].size }})</a></li>

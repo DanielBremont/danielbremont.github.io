@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meta
+date: 2020-01-03 00:00:00
 ---
 
 Log/blog agregacion de la informacion mas interesante que consulto.
