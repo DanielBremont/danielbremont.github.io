@@ -5,7 +5,7 @@ title: Inicio
 
 <div class="posts">
   {% for post in site.posts limit:5 %}
-    {% if post.tags[0] != null%}
+    
       <div class="post">
         <h1 class="post-title">
           <a href="{{ post.url }}">
@@ -25,8 +25,7 @@ title: Inicio
         </h4>   
         
       </div>
-    {% endif %}
-
+    
   {% endfor %}
 </div>
 
