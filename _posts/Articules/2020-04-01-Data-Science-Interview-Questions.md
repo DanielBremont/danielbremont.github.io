@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 160+ Data Science Interview Questions
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)

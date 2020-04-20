@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Design Principles Behind Smalltalk
-tags: [article, life, log]
+categories: [articles]
+tags: [life, log]
 ---
 
 [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)

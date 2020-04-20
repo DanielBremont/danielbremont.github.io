@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Complete
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

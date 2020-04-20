@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Understanding Data Abstraction, Revised
+categories: [papers]
 tags: [conocimiento, paper, saber, cs]
 ---
 

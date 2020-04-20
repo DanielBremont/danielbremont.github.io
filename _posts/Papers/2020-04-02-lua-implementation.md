@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Implementation of Lua 5.0
+categories: [papers]
 tags: [article, cs]
 ---
 

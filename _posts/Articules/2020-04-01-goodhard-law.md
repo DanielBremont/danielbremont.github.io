@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Goodhart's law
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart)

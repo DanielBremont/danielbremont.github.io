@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Mathematics?
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Introduction to Software Archirecture
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

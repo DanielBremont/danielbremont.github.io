@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Recursive CTEs Explained
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Recursive CTEs Explained](https://www.essentialsql.com/recursive-ctes-explained/)

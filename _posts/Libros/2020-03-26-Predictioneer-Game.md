@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Predictioneer's Game
+categories: [libros]
 tags: [conocimiento, libro, saber]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mindware Tools For Smart Thinking
+categories: [libros]
 tags: [conocimiento, libro, saber, learn]
 ---
 

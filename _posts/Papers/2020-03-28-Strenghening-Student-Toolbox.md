@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to Read Mathematics
+title: Strenghening Student Toolbox
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

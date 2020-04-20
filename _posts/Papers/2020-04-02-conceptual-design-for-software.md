@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Towards a Theory of Conceptual Design for Software
+categories: [papers]
 tags: [article, cs]
 ---
 

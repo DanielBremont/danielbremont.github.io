@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading Skills
+categories: [video]
 tags: [video]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Superforcasting
+categories: [libros]
 tags: [conocimiento, libro, saber]
 ---
 

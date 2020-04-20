@@ -1,7 +1,8 @@
 ---
 layout: post
 title: An introduction to event data modeling
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 [An introduction to event data modeling](https://snowplowanalytics.com/blog/2016/03/16/introduction-to-event-data-modeling/)

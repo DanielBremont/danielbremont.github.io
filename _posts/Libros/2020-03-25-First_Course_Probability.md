@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A First Course in Probability
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

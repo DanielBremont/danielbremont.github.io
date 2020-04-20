@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Tao of Programming
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: C Interfaces and Implementations
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Non-Random Walk Down Wall Street
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Problem-Solving Strategies
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

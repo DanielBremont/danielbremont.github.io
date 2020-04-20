@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Guía de diseño de API
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

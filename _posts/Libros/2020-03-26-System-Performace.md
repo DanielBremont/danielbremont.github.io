@@ -1,6 +1,7 @@
 ---
 layout: post
 title: System Performace
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

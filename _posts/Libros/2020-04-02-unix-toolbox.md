@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unix Toolbox
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing a Language
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

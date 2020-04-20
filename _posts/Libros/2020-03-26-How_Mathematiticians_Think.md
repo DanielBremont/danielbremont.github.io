@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Mathematitians Think
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

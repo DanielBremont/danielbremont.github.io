@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why We Only Learn When We Repeat
+categories: [video]
 tags: [video]
 ---
 

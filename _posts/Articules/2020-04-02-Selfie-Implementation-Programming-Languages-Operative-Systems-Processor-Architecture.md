@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Selfie Introduction to the Implementatin of Programming Languages, Operating Systems, and Processor Architecture
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 Author:

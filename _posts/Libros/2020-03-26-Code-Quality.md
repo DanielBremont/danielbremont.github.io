@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Quality
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

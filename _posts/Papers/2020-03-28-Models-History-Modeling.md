@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Models and History of Modeling
+categories: [papers]
 tags: [conocimiento, paper, saber, model]
 ---
 

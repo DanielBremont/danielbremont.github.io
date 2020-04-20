@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mining Massive Datasets
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

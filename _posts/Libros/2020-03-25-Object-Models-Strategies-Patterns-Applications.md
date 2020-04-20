@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Object Models
+categories: [libros]
 tags: [conocimiento,libro,saber,cs]
 ---
 

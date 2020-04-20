@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Orbit OS Precepts
-tags: [article, cs, os]
+categories: [articles]
+tags: [cs, os]
 ---
 
 [The Orbit OS Precepts](https://urbit.org/blog/precepts/)

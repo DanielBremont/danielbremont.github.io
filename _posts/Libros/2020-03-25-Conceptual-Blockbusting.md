@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Conceptutal Blockbusting
+categories: [libros]
 tags: [conocimiento, libro, saber, learn]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Calculus Made Easy
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

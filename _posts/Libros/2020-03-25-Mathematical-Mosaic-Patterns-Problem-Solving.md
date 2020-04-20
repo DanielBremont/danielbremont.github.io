@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Mathematical Mosic Patterns & Problem Solving
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

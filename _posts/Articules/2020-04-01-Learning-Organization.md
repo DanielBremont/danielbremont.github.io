@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Learning organization
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 [Learning organization](https://en.wikipedia.org/wiki/Learning_organization)

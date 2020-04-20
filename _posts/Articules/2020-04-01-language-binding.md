@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Language binding
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Language binding](https://en.wikipedia.org/wiki/Language_binding)

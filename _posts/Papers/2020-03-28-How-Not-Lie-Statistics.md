@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How not to lie with statistics - The correct way to summarize benchmark results
+categories: [papers]
 tags: [conocimiento, paper, saber, stats]
 ---
 

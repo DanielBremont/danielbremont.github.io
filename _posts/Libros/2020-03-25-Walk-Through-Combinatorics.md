@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Walk Through Combinatorics
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

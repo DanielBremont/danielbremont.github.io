@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Elements of Style
+categories: [libros]
 tags: [conocimiento, libro, saber, write]
 ---
 

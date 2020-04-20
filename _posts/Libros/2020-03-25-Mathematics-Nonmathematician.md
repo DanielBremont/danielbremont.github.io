@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathematics for the Nonmathematician
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

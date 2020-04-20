@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dive A Mixed-Initiative System Supporting Integrated Data Exploration Workflows
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Twe
+title: The Twelve-Factor App
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

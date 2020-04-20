@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Engineering
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

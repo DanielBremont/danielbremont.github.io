@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Science from Scratch
+categories: [libros]
 tags: [conocimiento, libro, hacer, ml]
 ---
 

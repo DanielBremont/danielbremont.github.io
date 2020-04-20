@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Analytics Edge
+categories: [libros]
 tags: [conocimiento, libro, saber, ml]
 ---
 

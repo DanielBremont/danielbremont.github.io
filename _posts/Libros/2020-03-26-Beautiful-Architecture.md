@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beautiful Architecture
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

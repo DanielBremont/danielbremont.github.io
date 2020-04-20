@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understainding Computation
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

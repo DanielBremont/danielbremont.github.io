@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Software Metrics
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 Author:

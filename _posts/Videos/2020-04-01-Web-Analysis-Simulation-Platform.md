@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building Web-based Analysis & Simulation Platforms | PyData London 2017
+categories: [video]
 tags: [video, python, cs]
 ---
 

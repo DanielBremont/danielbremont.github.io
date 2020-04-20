@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understanding the Linux Kernel
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

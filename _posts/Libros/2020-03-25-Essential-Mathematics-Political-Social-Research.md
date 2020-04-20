@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Essential Mathematics for Political and Social Research
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

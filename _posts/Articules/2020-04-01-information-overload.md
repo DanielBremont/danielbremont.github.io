@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Information overload
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

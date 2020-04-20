@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Building an AI to Predict Human Age From Just a Blood Sample
-tags: [article, ml]
+categories: [articles]
+tags: [ml]
 ---
 
 [Building an AI to Predict Human Age From Just a Blood Sample](https://colekillian.com/post/methylation-age-prediction/)

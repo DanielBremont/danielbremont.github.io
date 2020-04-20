@@ -1,6 +1,7 @@
 ---
 layout: post
 title: High Performace Python
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

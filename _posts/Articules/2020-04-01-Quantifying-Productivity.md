@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Quantifying Productivity
-tags: [article, negocios]
+categories: [articles]
+tags: [negocios]
 ---
 
 [Quantifying Productivity](http://karpathy.github.io/2014/08/03/quantifying-productivity/)

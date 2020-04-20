@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Feature Toggles (aka Feature Flags)
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

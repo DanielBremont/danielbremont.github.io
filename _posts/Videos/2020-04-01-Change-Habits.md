@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Change your habits, change your life
+categories: [video]
 tags: [video, career, advice]
 ---
 

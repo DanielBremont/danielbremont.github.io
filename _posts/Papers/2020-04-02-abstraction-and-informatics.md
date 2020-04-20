@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Abstraction and Informatics
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

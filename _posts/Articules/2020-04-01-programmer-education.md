@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Education of a Programmer
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

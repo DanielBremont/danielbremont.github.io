@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The End of Starsky Robotics
-tags: [article, negocios]
+categories: [articles]
+tags: [negocios]
 ---
 
 [The End of Starsky Robotics](https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5)

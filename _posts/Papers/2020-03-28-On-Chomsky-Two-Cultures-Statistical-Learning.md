@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Chomsky and the Two Cultures of Statistical Learning
+categories: [papers]
 tags: [conocimiento, paper, saber, ml]
 ---
 

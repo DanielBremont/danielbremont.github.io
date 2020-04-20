@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cost of a thread in C++ under Linux
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 

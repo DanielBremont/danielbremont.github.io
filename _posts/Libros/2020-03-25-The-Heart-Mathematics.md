@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Heart of Mathematics
+categories: [libros]
 tags: [conocimiento, libro, saber]
 ---
 

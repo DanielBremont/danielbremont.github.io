@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 201 Principles of Software Development
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Databases Internals
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

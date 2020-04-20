@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Career Advice
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

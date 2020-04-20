@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cost of a thread in C++ under Linux
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 [Cost of a thread in C++ under Linux](https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/)

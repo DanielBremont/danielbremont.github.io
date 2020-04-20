@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Thorough Introduction to Distributed Systems
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

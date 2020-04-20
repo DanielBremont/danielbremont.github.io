@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Designing great data products
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Designing great data products](https://www.oreilly.com/radar/drivetrain-approach-data-products/)

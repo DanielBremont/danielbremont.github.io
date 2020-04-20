@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Street Fighting Mathematics
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Operating Systems Design and Implementation
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

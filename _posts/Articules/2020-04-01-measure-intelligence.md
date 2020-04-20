@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On the Measure of Intelligence by F. Chollet
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

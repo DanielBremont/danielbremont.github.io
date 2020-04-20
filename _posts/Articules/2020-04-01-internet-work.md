@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How Does the Internet Work?
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)

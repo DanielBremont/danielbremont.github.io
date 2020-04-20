@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clean Code - A Handbook of Agile Software Cratfsmanship
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

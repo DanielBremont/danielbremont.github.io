@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mature Optimization Handbook
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

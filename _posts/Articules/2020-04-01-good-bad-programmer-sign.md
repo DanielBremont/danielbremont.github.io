@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Signs that you're a good/bad programmer
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

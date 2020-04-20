@@ -1,8 +1,11 @@
 ---
 layout: post
 title: The Definitive Glossary of Higher Mathematical Jargon
-tags: [article, math]
+categories: [articles]
+tags: [math]
 ---
+
+<!--more-->
 
 Author
 

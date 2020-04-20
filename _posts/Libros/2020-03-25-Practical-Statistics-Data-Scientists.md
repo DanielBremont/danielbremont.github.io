@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practical Statistics for Data Scientists
+categories: [libros]
 tags: [conocimiento, libro, hacer, stats]
 ---
 

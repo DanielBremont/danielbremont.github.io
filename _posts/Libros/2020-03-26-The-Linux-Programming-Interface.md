@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Linux Programming Interface
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

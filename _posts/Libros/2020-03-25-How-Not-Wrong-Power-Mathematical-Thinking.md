@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Not to Be Wrong
+categories: [libros]
 tags: [conocimiento, libro, saber, econ]
 ---
 

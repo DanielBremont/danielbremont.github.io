@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pragmatic Thinking and Learning
+categories: [libros]
 tags: [conocimiento, libro, saber, learn]
 ---
 

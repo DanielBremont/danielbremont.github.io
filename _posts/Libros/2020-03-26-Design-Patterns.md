@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Design Patterns
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

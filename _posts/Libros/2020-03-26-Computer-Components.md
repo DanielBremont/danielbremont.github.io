@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Computer as Components
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

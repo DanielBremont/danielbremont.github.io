@@ -1,7 +1,8 @@
 ---
 layout: post
 title: If You Commit to Nothing, You’ll Be Distracted By Everythin
-tags: [article, productivity]
+categories: [articles]
+tags: [productivity]
 ---
 
 <!--more-->

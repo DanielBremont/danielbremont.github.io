@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Software Performance Analysis
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Course Site](http://research.cs.queensu.ca/home/elgazzar/soft437/)

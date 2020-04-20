@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARM System Developer's Guide
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scalability Rules
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

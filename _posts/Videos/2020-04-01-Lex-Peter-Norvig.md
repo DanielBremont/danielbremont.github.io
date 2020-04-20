@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Peter Norvig- Artificial Intelligence- A Modern Approach
+categories: [video]
 tags: [video]
 ---
 

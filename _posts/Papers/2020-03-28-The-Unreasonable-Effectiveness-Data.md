@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Unreasonable Effectiveness of Data
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: PyPy
+title: Statiscal Modeling Two Cultures
+categories: [papers]
 tags: [conocimiento, paper, saber, ml]
 ---
 

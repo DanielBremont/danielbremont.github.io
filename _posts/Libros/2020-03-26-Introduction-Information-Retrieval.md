@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to Information Retrieval
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

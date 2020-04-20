@@ -1,7 +1,8 @@
 ---
 layout: post
 title: NOSQL Patterns
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: I am Jürgen Schmidhuber, AMA!
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [I am Jürgen Schmidhuber, AMA!](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/)

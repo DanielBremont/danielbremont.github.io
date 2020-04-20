@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building Microservices
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

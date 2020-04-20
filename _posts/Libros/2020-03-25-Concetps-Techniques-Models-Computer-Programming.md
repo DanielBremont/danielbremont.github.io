@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Concepts, Techniques, and Models of Computer Programming
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

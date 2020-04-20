@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Model Thinker
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

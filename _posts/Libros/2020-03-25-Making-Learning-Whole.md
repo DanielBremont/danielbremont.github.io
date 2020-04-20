@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making Learning Whole
+categories: [libros]
 tags: [conocimiento, libro, saber, learn]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Elements of Computing Systems
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

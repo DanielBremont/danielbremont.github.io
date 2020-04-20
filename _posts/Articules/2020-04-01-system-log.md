@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The 5 Most Important Logs An Application Should Write
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

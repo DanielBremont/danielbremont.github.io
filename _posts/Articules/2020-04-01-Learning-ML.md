@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Learning AI
-tags: [article, learning, ML]
+categories: [articles]
+tags: [learning, ML]
 ---
 
 <!--more-->

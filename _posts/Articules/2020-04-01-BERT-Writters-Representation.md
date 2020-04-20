@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The AIgent Using Google’s BERT Language Model to Connect Writers & Representation
-tags: [article, life, log]
+title: The Agent Using Google’s BERT Language Model to Connect Writers & Representation
+categories: [articles]
+tags: [life, log]
 ---
 
 [The AIgent: Using Google’s BERT Language Model to Connect Writers & Representation](https://blog.insightdatascience.com/the-aigent-using-googles-bert-language-model-to-connect-writers-representation-42ac6388da7c)

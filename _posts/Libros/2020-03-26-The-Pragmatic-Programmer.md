@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Pragmatic Programmer
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

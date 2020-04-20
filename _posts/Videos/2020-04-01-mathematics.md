@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathematics
+categories: [video]
 tags: [video, career, advice]
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The WhatsApp Architecture Facebook Bought For $19 Billion
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

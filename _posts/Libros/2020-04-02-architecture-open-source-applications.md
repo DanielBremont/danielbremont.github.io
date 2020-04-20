@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Architecture of Open Source Applications
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

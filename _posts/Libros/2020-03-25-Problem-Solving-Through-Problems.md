@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Problem-Solving Through Problems
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

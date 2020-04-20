@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Machine Learning for Everyone
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

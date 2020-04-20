@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Unit Art of Unit Testing with Examples in .NET
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

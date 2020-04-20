@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MapReduce Simplified Data Processing on Large Clusters
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

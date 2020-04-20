@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Naked Statistics
+categories: [libros]
 tags: [conocimiento, libro, saber, stats]
 ---
 

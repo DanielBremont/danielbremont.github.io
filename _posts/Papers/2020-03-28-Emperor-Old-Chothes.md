@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Emperor's Old Clothes
+categories: [papers]
 tags: [conocimiento, paper, saber, cs]
 ---
 

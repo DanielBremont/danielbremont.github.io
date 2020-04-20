@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elements of Argumentation
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

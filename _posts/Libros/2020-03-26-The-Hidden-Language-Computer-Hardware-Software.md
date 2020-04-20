@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Hidden Language of Computer Hardware and Software
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

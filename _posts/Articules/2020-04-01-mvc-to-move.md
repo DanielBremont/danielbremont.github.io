@@ -1,7 +1,8 @@
 ---
 layout: post
 title: MVC is dead, it's time to MOVE on.
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Grow a Mind Statistics, Structure, and Abstraction
+categories: [papers]
 tags: [conocimiento, paper, saber, ml]
 ---
 

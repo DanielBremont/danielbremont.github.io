@@ -1,15 +1,28 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="theme-base-08">
+<body class="theme-base-08">
 
-    {% include sidebar.html %}
+  {% include sidebar.html %}
 
-    <div class="content container">
-      {{ content }}
-    </div>
+  <div class="content container">
+    {{ content }}
+  </div>
 
-  </body>
+</body>
+
+<style>
+  a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    margin: 0 3px 0 5px;
+  }
+</style>
+
+<!-- to render markdown -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 </html>

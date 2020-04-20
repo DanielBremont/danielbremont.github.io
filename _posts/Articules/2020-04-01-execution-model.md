@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Execution model
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

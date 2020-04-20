@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathematics for Machine Learning
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

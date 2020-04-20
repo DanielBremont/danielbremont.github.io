@@ -44,3 +44,7 @@ meta
 node_modules
 .jekyll-cache
 vendor
+
+
+.jekyll-metadata
+.gitignore

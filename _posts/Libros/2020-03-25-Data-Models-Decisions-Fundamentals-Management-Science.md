@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Data, Models, and Decisions
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

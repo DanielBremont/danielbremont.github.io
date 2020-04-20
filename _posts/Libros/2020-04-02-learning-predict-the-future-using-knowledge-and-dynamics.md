@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning to Predict the Future using Web Knowledge and Dynamics
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

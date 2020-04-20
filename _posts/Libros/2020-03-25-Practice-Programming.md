@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Practice of Programming
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer,cs]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practical C Programming
+categories: [libros]
 tags: [conocimiento, libro, saber,cs]
 ---
 

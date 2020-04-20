@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Python 101 An Intro to Benchmarking your code
-tags: [article, python, cs]
+categories: [articles]
+tags: [python, cs]
 ---
 
 [Python 101: An Intro to Benchmarking your code](https://www.blog.pythonlibrary.org/2016/05/24/python-101-an-intro-to-benchmarking-your-code/)

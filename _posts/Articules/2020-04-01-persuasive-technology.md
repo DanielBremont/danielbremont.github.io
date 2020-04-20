@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Persuasive technology
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Database System Concepts
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

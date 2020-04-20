@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Psychology of Human Misjudgment, by Charlie Munger
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

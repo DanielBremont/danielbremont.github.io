@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Software 2.0
-tags: [article, cs]
+title: Notes to Myself on Software Engineering
+categories: [articles]
+tags: [cs]
 ---
 
 [Notes to Myself on Software Engineering](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d)

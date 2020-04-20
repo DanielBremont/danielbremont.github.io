@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Micro Frontends
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

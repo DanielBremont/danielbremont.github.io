@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Linux Productivity Tools
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 Author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pattern of Enterprise Application Architecture
+categories: [libros]
 tags: [conocimiento, libro, saber,cs]
 ---
 

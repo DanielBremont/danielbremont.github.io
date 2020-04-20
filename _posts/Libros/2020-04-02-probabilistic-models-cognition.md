@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Probabilistic Models of Cognition
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

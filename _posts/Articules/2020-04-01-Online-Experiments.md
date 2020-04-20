@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Surprising Power of Online Experiments
-tags: [article, negocios]
+categories: [articles]
+tags: [negocios]
 ---
 
 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments/)

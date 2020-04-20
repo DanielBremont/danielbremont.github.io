@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Text processing in the shell
-tags: [article, negocios]
+categories: [articles]
+tags: [negocios]
 ---
 
 [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell)

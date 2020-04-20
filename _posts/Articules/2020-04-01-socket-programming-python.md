@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Socket Programming in Python (Guide)
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

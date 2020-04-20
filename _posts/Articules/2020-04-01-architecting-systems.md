@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Introduction to architecting systems for scale
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Expert Programmers and Programming Languages
+categories: [papers]
 tags: [conocimiento, paper, saber, cs]
 ---
 

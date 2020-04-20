@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How a 2 person startup already uses 28 other tools
-tags: [article, learning]
+categories: [articles]
+tags: [learning]
 ---
 
 [How a 2 person startup already uses 28 other tools](https://blog.acrossapp.com/how-a-2-person-startup-already-uses-28-other-tools/)

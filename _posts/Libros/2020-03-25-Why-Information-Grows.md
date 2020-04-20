@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Information Grows
+categories: [libros]
 tags: [conocimiento, libro, saber, econ]
 ---
 

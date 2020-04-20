@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Comprehensive Python Cheatsheet
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

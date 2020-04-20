@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python Performance Tips
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

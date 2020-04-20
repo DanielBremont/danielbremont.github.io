@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading and Modifying Code
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

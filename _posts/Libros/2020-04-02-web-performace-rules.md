@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Performance Best Practices and Rules
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

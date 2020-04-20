@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mining the Web to Predict Future Events
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

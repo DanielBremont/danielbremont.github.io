@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Challenging projects every programmer should try
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

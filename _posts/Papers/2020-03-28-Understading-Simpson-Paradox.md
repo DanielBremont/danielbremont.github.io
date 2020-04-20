@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understanding Simpson's Paradox
+categories: [papers]
 tags: [conocimiento, paper, saber, ml]
 ---
 

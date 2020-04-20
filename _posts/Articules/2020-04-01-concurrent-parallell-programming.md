@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Concurrent programming, with examples
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 

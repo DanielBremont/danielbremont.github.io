@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PyPy's Approach to Virtual Machine Construction
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

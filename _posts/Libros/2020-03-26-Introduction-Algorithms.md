@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to Algorithms
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

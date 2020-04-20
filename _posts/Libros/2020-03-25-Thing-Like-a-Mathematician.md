@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Think Like a Mathematician
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

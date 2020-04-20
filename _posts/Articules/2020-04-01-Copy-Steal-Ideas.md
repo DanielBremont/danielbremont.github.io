@@ -1,7 +1,8 @@
 ---
 layout: post
 title: When to Copy Ideas, When to Steal Ideas
-tags: [article, negocios]
+categories: [articles]
+tags: [negocios]
 ---
 
 [When to Copy Ideas, When to Steal Ideas](https://davnicwil.com/when-to-copy-ideas-when-to-steal-ideas/)

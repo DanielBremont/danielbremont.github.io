@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Engineering a Compiler
+categories: [libros]
 tags: [conocimiento,libro,saber,cs]
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Learning Day
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Learning Day](https://www.openai.com/blog/learning-day/)

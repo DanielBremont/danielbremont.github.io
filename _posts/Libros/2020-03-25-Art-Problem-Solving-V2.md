@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Art of Problem Solving - Volumne 2 and Beyond
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

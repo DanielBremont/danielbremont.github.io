@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Problem Solving Skills
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer]
 ---
 

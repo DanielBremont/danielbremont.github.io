@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the Measure of Intelligence
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, ml]
 ---
 

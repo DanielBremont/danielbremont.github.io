@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clean Architecture
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

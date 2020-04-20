@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book of Proof
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

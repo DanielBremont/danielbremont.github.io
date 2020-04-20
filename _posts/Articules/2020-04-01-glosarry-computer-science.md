@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Glossary of computer science
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 [Glossary of computer science](https://en.wikipedia.org/wiki/Glossary_of_computer_science)

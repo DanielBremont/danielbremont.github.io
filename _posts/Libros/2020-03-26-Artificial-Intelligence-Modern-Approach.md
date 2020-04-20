@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Artificial Intelligence A Modern Approach
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

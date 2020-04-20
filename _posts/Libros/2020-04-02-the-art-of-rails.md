@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Art of Rails
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

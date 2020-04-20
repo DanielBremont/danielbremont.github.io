@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Who Wrote This Code? Identifying the Authors of Program Binaries
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

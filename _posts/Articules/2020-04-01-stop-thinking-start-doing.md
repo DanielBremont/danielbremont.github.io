@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Stop Thinking and Start Doing The Power of Practicing More
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

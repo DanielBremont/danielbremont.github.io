@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to deliver on Machine Learning projects
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

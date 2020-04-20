@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fundamental Concepts in Programming Languages
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crafting Interpreters
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

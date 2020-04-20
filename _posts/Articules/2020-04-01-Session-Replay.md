@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Session replay
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pattern Recognition and Machine Learning
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

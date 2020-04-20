@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open and User Innovation
+categories: [video]
 tags: [video, systems]
 ---
 

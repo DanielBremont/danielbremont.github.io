@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Naked Money
+categories: [libros]
 tags: [conocimiento, libro, saber, econ]
 ---
 

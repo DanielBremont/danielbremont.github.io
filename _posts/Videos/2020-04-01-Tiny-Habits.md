@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Tiny Habits Give Big Results
+categories: [video]
 tags: [video, career, advice]
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rules for Autocomplete
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

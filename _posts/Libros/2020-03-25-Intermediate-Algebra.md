@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intermediate Algebra
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

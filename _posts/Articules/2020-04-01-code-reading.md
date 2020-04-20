@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Code Reading
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

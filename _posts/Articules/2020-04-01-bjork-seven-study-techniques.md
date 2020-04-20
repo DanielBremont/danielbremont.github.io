@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Bjork s’ Seven Study Techniques
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

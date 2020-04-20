@@ -1,6 +1,7 @@
 ---
 layout: post
 title: User Profiling Techniques  A comparative study in the context of e-commerce websites
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

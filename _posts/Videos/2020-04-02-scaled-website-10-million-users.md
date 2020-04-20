@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  How I scaled a website to 10 million users (web-servers & databases, high load, and performance)
+title:  How I scaled a website to 10 million users
+categories: [video]
 tags: [video]
 ---
 
-- [How I scaled a website to 10 million users (web-servers & databases, high load, and performance)](https://www.youtube.com/watch?v=yPF94QiI2qk)
+[How I scaled a website to 10 million users (web-servers & databases, high load, and performace)](https://www.youtube.com/watch?v=yPF94QiI2qk)
 
 <!--more-->
 

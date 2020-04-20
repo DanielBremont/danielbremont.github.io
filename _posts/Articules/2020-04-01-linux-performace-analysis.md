@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Linux Performance Analysis in 60,000 Milliseconds
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

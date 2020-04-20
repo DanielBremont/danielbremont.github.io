@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python Design Patterns
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

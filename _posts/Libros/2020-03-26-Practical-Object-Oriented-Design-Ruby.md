@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Practical Object-Oriented Design in Ruby
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

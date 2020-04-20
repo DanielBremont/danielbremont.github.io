@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No Bullshit guide to Linear Algebra
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

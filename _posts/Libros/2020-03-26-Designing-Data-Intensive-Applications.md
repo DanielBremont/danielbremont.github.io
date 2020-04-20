@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Designing Data-Intensive Applications
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

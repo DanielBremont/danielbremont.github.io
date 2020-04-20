@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hands-On Machine Learning with Scikit-Learn & TensorFlow
+categories: [libros]
 tags: [conocimiento, libro, hacer, ml]
 ---
 

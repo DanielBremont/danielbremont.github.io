@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Reading
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
 

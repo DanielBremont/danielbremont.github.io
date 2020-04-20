@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How Google Code Search Worked
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [How Google Code Search Worked](https://swtch.com/~rsc/regexp/regexp4.html)

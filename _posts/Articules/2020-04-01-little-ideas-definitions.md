@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 100 Little Ideas - Definitions
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 [100 Little Ideas - Definitions](https://www.collaborativefund.com/blog/100-little-ideas/)

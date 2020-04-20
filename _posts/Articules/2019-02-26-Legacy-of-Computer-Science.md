@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Legacy of Computer Science
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 * Notes on The Legacy of Computer Science acordding Gerald J. Sussman 

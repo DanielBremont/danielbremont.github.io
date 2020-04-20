@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Read Mathematics
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learn D3 Introduction
+categories: [articles]
 tags: [books]
 ---
 

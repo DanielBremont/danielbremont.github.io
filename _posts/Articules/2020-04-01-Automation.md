@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Automatgion
-tags: [article, automation]
+title: Automation
+categories: [articles]
+tags: [utomation]
 ---
 
 <!--more-->

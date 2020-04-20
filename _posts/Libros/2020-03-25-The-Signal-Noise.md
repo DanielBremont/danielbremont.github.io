@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Signal and the Noise
+categories: [libros]
 tags: [conocimiento, libro, saber]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thinking as Computation
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer, ai]
 ---
 

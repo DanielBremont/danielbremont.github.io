@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Godel, Escher, Bach
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

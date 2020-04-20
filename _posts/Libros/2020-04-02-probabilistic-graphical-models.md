@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Probabilitic Graphical Models
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

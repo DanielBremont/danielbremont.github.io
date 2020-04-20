@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weaponized Lies
+categories: [libros]
 tags: [conocimiento, libro, saber, learn]
 ---
 

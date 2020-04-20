@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beej's Quick Guide to GDB
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

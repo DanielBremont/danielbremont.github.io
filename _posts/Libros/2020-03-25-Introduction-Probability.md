@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to Probability
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

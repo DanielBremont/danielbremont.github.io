@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Art of Unix Programming
+categories: [libros]
 tags: [conocimiento, libro, saber, cs]
 ---
 

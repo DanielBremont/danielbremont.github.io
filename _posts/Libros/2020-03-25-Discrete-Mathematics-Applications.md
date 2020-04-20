@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Discrete Mathematics and Its Applications
+categories: [libros]
 tags: [conocimiento, libro, saber, math]
 ---
 

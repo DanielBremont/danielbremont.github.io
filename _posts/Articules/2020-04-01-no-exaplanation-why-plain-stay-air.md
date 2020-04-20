@@ -1,7 +1,8 @@
 ---
 layout: post
 title: No One Can Explain Why Planes Stay In The Air
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

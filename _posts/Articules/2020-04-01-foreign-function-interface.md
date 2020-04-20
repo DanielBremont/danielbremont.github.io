@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Foreign function interface
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Foreign function interface](https://en.wikipedia.org/wiki/Foreign_function_interface)

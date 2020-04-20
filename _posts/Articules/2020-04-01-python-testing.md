@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Getting Started With Testing in Python
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Getting Started With Testing in Python](https://realpython.com/python-testing/)

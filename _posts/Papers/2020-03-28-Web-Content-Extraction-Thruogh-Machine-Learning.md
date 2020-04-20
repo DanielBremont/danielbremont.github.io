@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Content Extraction Through Machine Learning
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, ml]
 ---
 

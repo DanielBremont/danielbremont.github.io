@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Clean Code - Coding for Humans
-tags: [articles, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 Introduction:

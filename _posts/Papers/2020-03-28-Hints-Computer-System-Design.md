@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hints for Computer System Design
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

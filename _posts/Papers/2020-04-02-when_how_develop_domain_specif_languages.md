@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When and How to Develop Domain-Specific Language
+categories: [papers]
 tags: [conocimiento, paper, saber]
 ---
 

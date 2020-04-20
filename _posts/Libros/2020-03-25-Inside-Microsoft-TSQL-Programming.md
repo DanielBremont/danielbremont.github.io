@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Inside Microsft Sql Server 2008 T-SQL Programming
+categories: [libros]
 tags: [conocimiento, libro, saber, hacer,cs]
 ---
 

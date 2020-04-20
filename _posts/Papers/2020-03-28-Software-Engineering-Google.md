@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Engineering at Google
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

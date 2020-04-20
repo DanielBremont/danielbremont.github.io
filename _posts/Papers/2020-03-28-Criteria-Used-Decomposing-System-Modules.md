@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the Criteria To Be Used in Decomposing Systems into Modules
+categories: [papers]
 tags: [conocimiento, paper, saber, hacer, cs]
 ---
 

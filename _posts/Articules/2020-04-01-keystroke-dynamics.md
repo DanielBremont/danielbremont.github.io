@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Keystroke Dynamics
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 [Keystroke Dynamics](http://www.biometric-solutions.com/keystroke-dynamics.html)

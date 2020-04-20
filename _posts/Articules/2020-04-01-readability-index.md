@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 100 Little Ideas - Definitions
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 [Automated readability index](https://en.wikipedia.org/wiki/Automated_readability_index)

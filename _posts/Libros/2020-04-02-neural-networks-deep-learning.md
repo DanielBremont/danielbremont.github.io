@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neural Networks and Deep Learning
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

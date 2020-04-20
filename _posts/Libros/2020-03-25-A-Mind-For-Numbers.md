@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Mind for Numbers
-tags: [conocimiento, libro, saber, learn]
+categories: [libros]
+tags: [conocimiento, saber, learn]
 ---
 
 <!--Resumen-->

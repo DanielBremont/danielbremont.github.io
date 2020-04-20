@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Peter Norvig's 9 Master Steps To Improving A Program
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->

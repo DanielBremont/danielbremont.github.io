@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Learning Math
-tags: [article, math]
+categories: [articles]
+tags: [math]
 ---
 
 <!--more-->

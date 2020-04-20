@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Writing Well
+categories: [libros]
 tags: [conocimiento, libro, saber, write]
 ---
 

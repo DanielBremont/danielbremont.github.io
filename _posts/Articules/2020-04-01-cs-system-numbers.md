@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Numbers Everyone Should Know
-tags: [article, cs]
+categories: [articles]
+tags: [cs]
 ---
 
 <!--more-->

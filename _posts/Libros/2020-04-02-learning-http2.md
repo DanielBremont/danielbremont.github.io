@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning HTTP2/2
+categories: [libros]
 tags: [conocimiento, libro]
 ---
 

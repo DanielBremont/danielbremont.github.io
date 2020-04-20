@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Predictable Identities
-tags: [article]
+categories: [articles]
+tags: []
 ---
 
 <!--more-->
