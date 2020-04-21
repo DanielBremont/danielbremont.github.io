@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Some Brains More Focused Than Others? 
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

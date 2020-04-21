@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Get What You Measure
-categories: [video]
+categories: [videos]
 tags: [video, career, advice]
 ---
 

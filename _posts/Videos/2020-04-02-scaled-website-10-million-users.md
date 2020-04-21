@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How I scaled a website to 10 million users
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

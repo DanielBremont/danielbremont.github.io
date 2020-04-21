@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do We Know What We Know
-categories: [video]
+categories: [videos]
 tags: [video, career, advice]
 ---
 

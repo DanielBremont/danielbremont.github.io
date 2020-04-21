@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Unreasonable Effectiveness of Data
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

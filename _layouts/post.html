@@ -2,18 +2,35 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+<div class="row" >
+  <div class="col-md-8">
+    <div class="post" data-spy="scroll" data-target="#toc">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <span class="post-date">{{ page.date | date_to_string }}</span>
+      {{ content }}
+    </div>
+  </div>
+
+  <div class="col-md-2">
+
+    <nav id="toc" class="hidden-print hidden-xs" data-spy="affix" data-toggle="toc">
+      <div class="toc-header" data-spy="affix">
+        <span class="toc-contents">Contenidos</span>
+      </div>
+      
+      <span class="toc-hide">Ocultar</span>
+      <span class="toc-expand">Expandir</span>
+    </nav>
 </div>
 
+
+
 <div class="related">
-  <h2>Related Posts</h2>
+  <h2 data-toc-skip>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
-        <h3>
+        <h3 data-toc-skip>
           <a href="{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
@@ -23,3 +40,45 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<script src="https://code.jquery.com/jquery-2.0.2.js"> </script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    
+<script src="https://rishikeshdarandale.github.io/aws-http/assets/javascripts/vendor/bootstrap-toc.min.js"></script>
+
+
+<script>
+  $(".toc-hide").click(function () {
+    $( this ).toggleClass( "gray-bg" );
+    $(".toc-contents").toggleClass("lighter");
+
+    if ($(this).text() == 'Ocultar') {
+      $(this).text("Mostrar");
+    } else {
+      $(this).text("Ocultar");
+    }
+    // toggle visibility of contents, and expand button
+    $(".nav").toggle();
+    $(".toc-expand").toggle();
+  });
+
+  $(".toc-expand").click(function () {
+    // $( this ).toggleClass( "gray-bg" );
+
+    if ($(this).text() == 'Expandir') {
+      $(this).text("Compactar");
+      $(".nav").css('display', 'block');
+    } else {
+      $(this).text("Expandir");
+      $(".nav .nav").css('display', 'none');
+    }
+  });
+
+  // get current year and put it in span
+  var currYear = new Date().getFullYear()
+  $(".current-year").text(currYear);
+</script>

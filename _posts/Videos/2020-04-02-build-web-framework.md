@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Let's build a web framework!
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synthetic Biology Study Guide
-categories: [video]
+categories: [videos]
 tags: [bio]
 ---
 

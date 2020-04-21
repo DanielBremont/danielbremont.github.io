@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep Thoughts Engineering - John Carmack
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

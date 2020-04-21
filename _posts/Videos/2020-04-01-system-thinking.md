@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Thinking
-categories: [video]
+categories: [videos]
 tags: [video, systems]
 ---
 

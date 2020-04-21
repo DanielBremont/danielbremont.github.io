@@ -13,15 +13,11 @@ tagline:          'Mi Log/Blog Personal'
 description:      "Hola! Soy Daniel Victoriano Bremont. Bienvenidos a mi log/blog."
 url:              https://blog.dbremont.dev/
 baseurl:          /
-plugins: [jekyll-paginate]
 excerpt_separator: <!--more-->
-
 
 author:
   name:           'Daniel Victorino Bremont'
   url:            https://blog.dbremont.dev/
-
-paginate:         5
 
 # Custom vars
 version:          1.0.0

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Computer Learns
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

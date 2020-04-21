@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You and Your Research
-categories: [video]
+categories: [videos]
 tags: [video, career, advice]
 ---
 

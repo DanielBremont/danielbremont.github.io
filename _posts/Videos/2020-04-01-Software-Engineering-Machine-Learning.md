@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Engineering with-and-for-by Machine Learning
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

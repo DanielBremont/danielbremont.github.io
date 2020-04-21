@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How The Economic Machine Works 
-categories: [video]
+categories: [videos]
 tags: [video]
 ---
 

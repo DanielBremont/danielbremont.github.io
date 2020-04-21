@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creativity
-categories: [video]
+categories: [videos]
 tags: [video, career, advice]
 ---
 
