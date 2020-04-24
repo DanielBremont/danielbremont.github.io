@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 # Setup
 title:            DanielLog
 tagline:          'Mi Log/Blog Personal'
-description:      "Hola! Soy Daniel Victoriano Bremont. Bienvenidos a mi log/blog."
+description:      "Hola!, bienvenidos a mi log-blog."
 url:              https://blog.dbremont.dev/
 baseurl:          /
 excerpt_separator: <!--more-->
