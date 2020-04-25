@@ -5,9 +5,6 @@ categories: [articles]
 tags: [ml]
 ---
 
-{%
-
-
 **[Ir](https://colekillian.com/post/methylation-age-prediction/){:target="_blank"}**
 
 # Premise
@@ -58,7 +55,7 @@ Code To Download Dataset
     !paste "GSE87571_Matrix_Avg_Beta.txt" "./GSE87571_Matrix_Avg_Beta2.txt" > matrix.csv
 
     # Remove every other column because every other column has blank values
-    !awk '{{printf "%s ", $1}for(i=2;i<=NF;i=i+2){printf "%s ", $i}{printf "%s", RS}}' matrix.csv > final_matrix.cs
+    !awk 'printf "%s ", $1 for(i=2;i<=NF;i=i+2)  printf "%s ", $i  printf "%s", RS' matrix.csv > final_matrix.cs
 
 ```
 
@@ -136,5 +133,3 @@ You can’t truly enjoy a machine learning model without a good user interface, 
 # Conclusion
 
 I hope you enjoyed. Make sure to check out https://epigenosys.com to play with the model yourself. See all the [code](https://colab.research.google.com/drive/1TKirVZKApi72zS1ytHAjwnlDDbwOOjVQ) here. Watch the associated YouTube [video](https://www.youtube.com/watch?v=sXShXO9zbcc) here
-
-%}
