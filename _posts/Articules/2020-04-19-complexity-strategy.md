@@ -6,7 +6,7 @@ categories: [articles]
 
 - [Ir](https://hackernoon.com/complexity-and-strategy-325cd7f59a92){:target="_blank"}
 
-<!--Resumen-->
+<!--more-->
 
 ![cost](https://hackernoon.com/hn-images/1*2x9Dg_XIRDfgqkN-YW5RjQ.png "cost")
 
