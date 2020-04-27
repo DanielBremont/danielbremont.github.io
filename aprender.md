@@ -42,4 +42,5 @@ Cosas que quiero aprender:
 - Not even wrong [Ir](https://en.wikipedia.org/wiki/Not_even_wrong)
 - Persuasive Design: New Captology Book [Ir](https://www.nngroup.com/articles/persuasive-design-new-captology-book/)
 - Behavioral economics [Ir](https://en.wikipedia.org/wiki/Behavioral_economics)
+- Python Configuration Right [Ir](https://whalesalad.com/blog/doing-python-configuration-right)
 
