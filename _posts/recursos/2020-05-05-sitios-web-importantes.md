@@ -25,6 +25,7 @@ categories: [recursos]
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 - [N Rich](https://nrich.maths.org/)
+- [Mathcounts Trainer](https://artofproblemsolving.com/mathcounts_trainer)
 
 ---
 
