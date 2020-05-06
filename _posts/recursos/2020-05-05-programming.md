@@ -18,6 +18,7 @@ categories: [recursos]
 - [mitmproxy is a free and open source interactive HTTPS proxy](https://mitmproxy.org/)
 - [GoReplay network monitoring tool](https://goreplay.org/)
 - [nfstream: a flexible network data analysis framework](https://nfstream.github.io/)
+- [Insomnia](https://insomnia.rest/)
 
 # Librerias
 

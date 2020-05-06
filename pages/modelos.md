@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modelos
-date: 2020-01-02 00:00:00
+orden: 2
 ---
 
 Todos los modelos van aqui !!!
@@ -10,3 +10,6 @@ Todos los modelos van aqui !!!
 
 How to Get the Best Results from Big Data Analysis
 https://knowledge.wharton.upenn.edu/article/page-model-thinker-book/
+
+Models for Covid-19
+[Ir](https://sites.google.com/umich.edu/manymodelsclovid19/home?authuser=0)

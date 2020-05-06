@@ -130,3 +130,16 @@ Resources:
 [Where is AI/ML actually adding value at your company?](https://www.fast.ai/2016/12/29/uses-of-ai/)
 
 An interesting thread came up over at Hacker News: Ask HN: Where is AI/ML actually adding value at your company?. And the folks at High Scalability were good enough to summarize the answers. It was somewhat buried in a lengthy blog post, so we wanted to highlight it here. So without further ado, here is the list:
+
+## Is my data predictable?
+Aprender de [Ir](https://predictable-data.herokuapp.com/)
+
+Upload a training set, predict something on that set. 
+
+## Dataset Inversionistas
+DISCOVER YOUR PERFECT INVESTOR IN MINUTES, NOT MONTHS
+[Ir](https://unicorn-nest.com/home)
+
+## A Statistical Analysis of Coughing Patterns on ‘Who Wants To Be A Millionaire?’
+
+[Ir](https://medium.com/@liam.philip.shaw/a-statistical-analysis-of-coughing-patterns-on-who-wants-to-be-a-millionaire-187be5cc6af1)

@@ -24,6 +24,7 @@ categories: [recursos]
 - [Now the essence of knowledge](https://www.nowpublishers.com/)
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+- [N Rich](https://nrich.maths.org/)
 
 ---
 
@@ -36,3 +37,5 @@ categories: [recursos]
 - [Compiler Explorer](https://godbolt.org/)
 - [MathURLs – math news aggregator](https://mathurls.com/)
 - [DevDocs API](https://devdocs.io/)
+- [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
+- [Keybr](https://www.keybr.com/)

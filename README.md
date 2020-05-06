@@ -12,6 +12,9 @@ http://dist-prog-book.com/chapter/5/langs-extended-for-dist.html
 Tabla de contenidos:
 https://afeld.github.io/bootstrap-toc/
 
-Agregar scroll:
+Agregar scroll
 
+Métricas blog:
 
+- Número de letras y sílabas por post condicionando en base a sus categorías.
+- Número de visitas a una página y post.
