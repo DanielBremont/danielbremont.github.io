@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aprender
-date: 2020-01-10 00:00:00
+orden: 1
 ---
 
 Cosas que quiero aprender:
