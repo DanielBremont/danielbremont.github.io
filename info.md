@@ -38,6 +38,9 @@ Cares about modular and re-useful software.
 ## Personas
 **[Ir](/articles/2020/04/19/personas/){:target="_blank"}**
 
+## Herramientas
+**[Ir](/articles/2020/04/19/me-tools/){:target="_blank"}**
+
 ## Estadisticas
 - Ultima Compilacion: {{site.time | date_to_string}} <br/>
 - Cantidad de Posts: {{site.posts | size}}
