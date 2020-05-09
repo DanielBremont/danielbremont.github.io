@@ -60,6 +60,8 @@ Cosas que quiero aprender:
 
     Consuming media (books, blogs, whatever) is not inherently a compounding thing. Only if you have some kind of method to reflect, to digest, to incorporate your knowledge into your thoughts. If there is anything valuable in this post, you, reader, will probably not benefit from it unless you do something active to “process” it immediately.
 
--   Write your goals on a sheet of paper. 
+- Write your goals on a sheet of paper. 
+    
     Circle the three most important. 
+    
     Avoid doing any work on anything that's not circled.
