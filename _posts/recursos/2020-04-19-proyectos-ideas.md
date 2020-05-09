@@ -143,3 +143,7 @@ DISCOVER YOUR PERFECT INVESTOR IN MINUTES, NOT MONTHS
 ## A Statistical Analysis of Coughing Patterns on ‘Who Wants To Be A Millionaire?’
 
 [Ir](https://medium.com/@liam.philip.shaw/a-statistical-analysis-of-coughing-patterns-on-who-wants-to-be-a-millionaire-187be5cc6af1)
+
+## AI Basketball
+
+[Ir](https://ai-basketball-analysis.herokuapp.com/)
