@@ -40,3 +40,9 @@ categories: [recursos]
 - [DevDocs API](https://devdocs.io/)
 - [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 - [Keybr](https://www.keybr.com/)
+
+---
+
+- [Alculus](https://artofproblemsolving.com/alcumus/problem)
+- [Crodmath](https://artofproblemsolving.com/polymath)
+- [AOPS Community](https://artofproblemsolving.com/community)

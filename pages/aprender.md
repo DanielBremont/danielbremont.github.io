@@ -65,3 +65,5 @@ Cosas que quiero aprender:
     Circle the three most important. 
     
     Avoid doing any work on anything that's not circled.
+
+- [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
