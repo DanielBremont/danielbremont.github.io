@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aprender
+title: Cursos
 orden: 7
 ---
 
