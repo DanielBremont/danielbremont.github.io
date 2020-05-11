@@ -6,22 +6,31 @@ orden: 7
 
 Log/blog agregacion de la informacion mas interesante que consulto.
 
-## Daniel Victoriano Bremont
+---
+
+# Estadisticas
+- Ultima Compilacion: {{site.time | date_to_string}} <br/>
+- Cantidad de Posts: {{site.posts | size}}
 
 ---
 
-Full Stack ASP.NET Developer. <br/>
-Cares about modular and re-useful software.
+# Entrada
 
-### Want to know my skills?
-- C#
-- ASP.NET Forms
-- T-SQL
-- Python
+<ul>
+{% for cat in site.categories %}
+<li>
+  <a href="#{{ cat[0] }}"> {{ cat[0] }} ({{ cat[1].size }})</a>
+  </li>
+{% endfor %}
+</ul>
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.  <br/>
-> **[Martin Fowler](https://martinfowler.com/){:target="_blank"}**
+{% for cat in site.categories %}
+  <h2 id="{{ cat[0] }}">{{ cat[0] }}</h2>
+  <ul>
+    
+    {% for post in cat[1] reversed %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
 
-## Estadisticas
-- Ultima Compilacion: {{site.time | date_to_string}} <br/>
-- Cantidad de Posts: {{site.posts | size}}
+  </ul>
+{% endfor %}
