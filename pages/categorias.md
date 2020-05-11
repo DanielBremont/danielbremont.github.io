@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Categorias
-orden: 3
+orden: 6
 ---
 
 <ul>

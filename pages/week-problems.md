@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Problemas de la Semana
-orden: 7
+orden: 2
 ---
 
 *Semana 1*

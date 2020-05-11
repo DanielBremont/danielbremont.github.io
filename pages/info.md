@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informacion
-orden: 5
+orden: 7
 ---
 
 Log/blog agregacion de la informacion mas interesante que consulto.
