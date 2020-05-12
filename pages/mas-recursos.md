@@ -23,10 +23,6 @@ orden: 5
 
 # Sitios Web Importantes
 
-- [Expii - Learn Creatively](https://www.expii.com/)
-- [Khan Academy](https://www.khanacademy.org/)
-- [Brilliant](https://brilliant.org/)
-- [Art of Problem Solving](https://artofproblemsolving.com/)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/es)
 - [Swayam Central](https://swayam.gov.in/)
@@ -40,9 +36,18 @@ orden: 5
 - [Now the essence of knowledge](https://www.nowpublishers.com/)
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+- [Grupo Lens - Social Computing Research](https://grouplens.org/)
+
+- [Expii - Learn Creatively](https://www.expii.com/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Brilliant](https://brilliant.org/)
+- [Art of Problem Solving](https://artofproblemsolving.com/)
+- [MathURLs – math news aggregator](https://mathurls.com/)
 - [N Rich](https://nrich.maths.org/)
 - [Mathcounts Trainer](https://artofproblemsolving.com/mathcounts_trainer)
-- [Grupo Lens - Social Computing Research](https://grouplens.org/)
+- [Alculus](https://artofproblemsolving.com/alcumus/problem)
+- [Crodmath](https://artofproblemsolving.com/polymath)
+- [AOPS Community](https://artofproblemsolving.com/community)
 
 - [Opensource.builders](https://opensource.builders/)
 - [The latest Sci-Hub working domain](https://lovescihub.wordpress.com/)
@@ -50,7 +55,6 @@ orden: 5
 - [Developer tools for deep learning](https://app.wandb.ai/)
 - [Reactive Resume](https://rx-resume.web.app/)
 - [Our World in Data](https://ourworldindata.org/)
-- [MathURLs – math news aggregator](https://mathurls.com/)
 - [DevDocs API](https://devdocs.io/)
 - [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 - [Keybr](https://www.keybr.com/)
@@ -59,9 +63,9 @@ orden: 5
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
     - [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
 
-- [Alculus](https://artofproblemsolving.com/alcumus/problem)
-- [Crodmath](https://artofproblemsolving.com/polymath)
-- [AOPS Community](https://artofproblemsolving.com/community)
+- [Demystifying Science](https://demystifyingscience.com/)
+- [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 
 - [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 - [High Scalability](http://highscalability.squarespace.com/)

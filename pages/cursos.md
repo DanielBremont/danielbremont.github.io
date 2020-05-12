@@ -34,6 +34,7 @@ orden: 4
 - [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
 
 - [From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling](http://www.lithoguru.com/scientist/statistics/)
+- [Decision-Making Under Uncertainty](https://nptel.ac.in/courses/110106134/)
 - [Online Statistics Review Course](http://lithoguru.com/scientist/statistics/review.html)
 - [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
 
@@ -55,26 +56,31 @@ orden: 4
 
 # Data
 
+- [Choosing the right course for a Practical NLP Engineer](https://airev.us/Home/ultimate-guide-to-natural-language-processing-courses/)
+
 - [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
-- [Deep Learning (11-785)](http://deeplearning.cs.cmu.edu/)
-- [Deep Learning (CS230)](https://cs230.stanford.edu/)
-- [Deep Learning (STAT 157)](https://courses.d2l.ai/berkeley-stat-157/index.html)
+
+- [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
+- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Machine Learning (10-701)](http://alex.smola.org/teaching/10-701-15/)
 - [Machine Learning (mlcourse.ai)](https://mlcourse.ai/)
+- [Intelligent System](https://intelligentsystem.io/)
+- [W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
+
+- [CMU Deep   - Learning (11-785)](http://deeplearning.cs.cmu.edu/)
+- [Stanford   - Deep Learning (CS230)](https://cs230.stanford.edu/)
+- [UC Berkely - Deep Learning (STAT 157)](https://courses.d2l.ai/berkeley-stat-157/index.html)
+
 - [Natural Language Processing (11-411)](http://demo.clab.cs.cmu.edu/NLP/)
 - [Natural Language Processing with Deep Learning (CS224n)](http://web.stanford.edu/class/cs224n/)
 - [Natural Language Understanding (CS224U)](https://web.stanford.edu/class/cs224u/)
+
 - [Probabilistic Graphical Models (10-708)](https://sailinglab.github.io/pgm-spring-2019/)
-- [EP3260: Fundamentals of Machine Learning Over Networks](https://sites.google.com/view/mlons/home?authuser=0)
-- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Intelligent System](https://intelligentsystem.io/)
 - [6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
-- [W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
-- [CS230 Deep Learning](http://cs230.stanford.edu/lecture/)
-- [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
-- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks )
+
+- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+- [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
-- [Decision-Making Under Uncertainty](https://nptel.ac.in/courses/110106134/ )
 
 # Computer Science
 

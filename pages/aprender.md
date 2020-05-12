@@ -119,6 +119,13 @@ Things to learn:
 - Using shaders.
 - Networking for online features.
 
+- [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
+- Jupyter Kernel
+- How does jupyter work?
+- Manufacturing
+- [Máquina herramienta](https://es.wikipedia.org/wiki/M%C3%A1quina_herramienta)
+- A Ponzi scheme
+
 Resources 
     - [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
     - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table/)
