@@ -6,15 +6,6 @@ orden: 4
 
 <!--more-->
 
-# Science Fundamentals
-
-- **Biology**: [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/)
-- **Chemistry**: [Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry 5-111sc-principles-of-chemical-science-fall-2014)
-- **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
-- **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
-- **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
-
 # Maths
 - [Invitation to Mathematics](https://nptel.ac.in/courses/111/106/111106083/)
 
@@ -47,7 +38,6 @@ orden: 4
     - [A full course in econometrics - undergraduate level - part 2](https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU)
     - [A graduate course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
 
-
 # Data
 
 - [Choosing the right course for a Practical NLP Engineer](https://airev.us/Home/ultimate-guide-to-natural-language-processing-courses/)
@@ -77,6 +67,18 @@ orden: 4
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 - [Machine Learning for Trading](https://classroom.udacity.com/courses/ud501)
     - [Psets](http://lucylabs.gatech.edu/ml4t/syllabus)
+
+
+# Science Fundamentals
+
+- **Biology**: [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/)
+- **Chemistry**: [Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry 5-111sc-principles-of-chemical-science-fall-2014)
+- **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
+- **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
+- **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
+- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
+
+
 
 # Computer Science
 
