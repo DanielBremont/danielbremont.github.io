@@ -6,38 +6,20 @@ orden: 5
 
 # Blogs
 
-- [High Scalability](http://highscalability.squarespace.com/)
 - [The Batch - deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 - [Technology Radar \| An opinionated guide to technology frontiers](https://www.thoughtworks.com/radar)
-- [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
-- [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
-- [Jepsen](https://aphyr.com/tags/Jepsen)
 - [Farnam Street](https://fs.blog/)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-- [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
-- [Jay Alammar -  Visualizing machine learning one concept at a time](https://jalammar.github.io/)
-- [Melting Asphalt](https://meltingasphalt.com/)
-- [Grupo Lens](https://grouplens.org/)
-
----
 
 # Personas
 
-- [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](http://norvig.com/)
 - [Leo Breiman](https://www.stat.berkeley.edu/~breiman/)
 - [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
 - [Daniel Kirsch](http://danielkirs.ch/)
 - [François Chollet](https://fchollet.com/)
 - [Kira Radinsky ](http://www.kiraradinsky.com/)
-- [Stephen Wolfram](https://www.stephenwolfram.com/)
 - [Ben Lambert - Econometrics, Stats, ...](https://ben-lambert.com/)
-- [Martin Fowler](https://martinfowler.com)
 - [Erick Bernhardsson](https://erikbern.com/)
-- [Yuling Yao's Blog](https://www.yulingyao.com/blog/)
-
----
 
 # Sitios Web Importantes
 
@@ -55,14 +37,12 @@ orden: 5
 - [Udemy](https://www.udemy.com/)
 - [Learn.Genetics](https://learn.genetics.utah.edu/)
 - [Distance Learning Courses and Adult Education - The Open University](http://www.open.ac.uk/)
-- [Algorithms Illuminated - Code-Text-Videos](http://www.algorithmsilluminated.org/)
 - [Now the essence of knowledge](https://www.nowpublishers.com/)
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 - [N Rich](https://nrich.maths.org/)
 - [Mathcounts Trainer](https://artofproblemsolving.com/mathcounts_trainer)
-
----
+- [Grupo Lens - Social Computing Research](https://grouplens.org/)
 
 - [Opensource.builders](https://opensource.builders/)
 - [The latest Sci-Hub working domain](https://lovescihub.wordpress.com/)
@@ -70,19 +50,23 @@ orden: 5
 - [Developer tools for deep learning](https://app.wandb.ai/)
 - [Reactive Resume](https://rx-resume.web.app/)
 - [Our World in Data](https://ourworldindata.org/)
-- [Compiler Explorer](https://godbolt.org/)
 - [MathURLs – math news aggregator](https://mathurls.com/)
 - [DevDocs API](https://devdocs.io/)
 - [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 - [Keybr](https://www.keybr.com/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
----
+- [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+    - [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
 
 - [Alculus](https://artofproblemsolving.com/alcumus/problem)
 - [Crodmath](https://artofproblemsolving.com/polymath)
 - [AOPS Community](https://artofproblemsolving.com/community)
 
----
+- [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
+- [High Scalability](http://highscalability.squarespace.com/)
+- [Julia Evans](https://jvns.ca/)
+- [Martin Fowler](https://martinfowler.com)
 
 # Servicios
 
@@ -97,7 +81,6 @@ orden: 5
 - [mitmproxy is a free and open source interactive HTTPS proxy](https://mitmproxy.org/)
 - [GoReplay network monitoring tool](https://goreplay.org/)
 - [nfstream: a flexible network data analysis framework](https://nfstream.github.io/)
-- [Insomnia](https://insomnia.rest/)
 
 # Librerias
 
@@ -112,4 +95,3 @@ orden: 5
 - [selfie An educational software system](http://selfie.cs.uni-salzburg.at/)
 - [Qemu the FAST! processor emulator](https://www.qemu.org/)
 - [Open-source illustrations for any idea you can imagine and create](https://undraw.co/)
-
