@@ -13,13 +13,7 @@ orden: 4
 - **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-
-- Molecular Biology
-    - Part 1: [DNA Replication and Repair](https://www.edx.org/es/course/molecular-biology-part-1-dna-replication-and-repair)
-    - Part 2: [Transcription and Transposition](https://www.edx.org/es/course/molecular-biology-part-2-transcription-and-transposition)
-    - Part 3: [RNA Processing and Translation](https://www.edx.org/es/course/molecular-biology-part-3-rna-processing-and-transl)
 - [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
-
 
 # Maths
 - [Invitation to Mathematics](https://nptel.ac.in/courses/111/106/111106083/)
@@ -81,6 +75,8 @@ orden: 4
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
 - [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
+- [Machine Learning for Trading](https://classroom.udacity.com/courses/ud501)
+    - [Psets](http://lucylabs.gatech.edu/ml4t/syllabus)
 
 # Computer Science
 
