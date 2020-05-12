@@ -32,11 +32,6 @@ orden: 4
     - [Videos](http://linear.axler.net/LADRvideos.html)
     - [Solutions](https://linearalgebras.com/)
 - [Introduction to Abstract and Linear Algebra](https://nptel.ac.in/courses/111105112/)
-- [Econometrics course problem sets and data](https://ben-lambert.com/econometrics-course-problem-sets-and-data/)
-    - [Books](https://ben-lambert.com/econometrics-and-statistics-books/)
-    - [A full course in econometrics - undergraduatse level - part 1](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
-    - [A full course in econometrics - undergraduate level - part 2](https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU)
-    - [A graduate course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz)
 
 # Data
 
@@ -70,7 +65,6 @@ orden: 4
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
 - [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
-
 
 
 # Computer Science
