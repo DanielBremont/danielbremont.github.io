@@ -40,10 +40,6 @@ orden: 4
 
 # Data
 
-- [Choosing the right course for a Practical NLP Engineer](https://airev.us/Home/ultimate-guide-to-natural-language-processing-courses/)
-
-- [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
-
 - [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Machine Learning (10-701)](http://alex.smola.org/teaching/10-701-15/)
@@ -55,19 +51,16 @@ orden: 4
 - [Stanford   - Deep Learning (CS230)](https://cs230.stanford.edu/)
 - [UC Berkely - Deep Learning (STAT 157)](https://courses.d2l.ai/berkeley-stat-157/index.html)
 
+- [Choosing the right course for a Practical NLP Engineer](https://airev.us/Home/ultimate-guide-to-natural-language-processing-courses/)
+
+
 - [Natural Language Processing (11-411)](http://demo.clab.cs.cmu.edu/NLP/)
 - [Natural Language Processing with Deep Learning (CS224n)](http://web.stanford.edu/class/cs224n/)
 - [Natural Language Understanding (CS224U)](https://web.stanford.edu/class/cs224u/)
 
 - [Probabilistic Graphical Models (10-708)](https://sailinglab.github.io/pgm-spring-2019/)
-- [6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
 
-- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
-- [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
-- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
-- [Machine Learning for Trading](https://classroom.udacity.com/courses/ud501)
-    - [Psets](http://lucylabs.gatech.edu/ml4t/syllabus)
-
+- [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
 
 # Science Fundamentals
 
