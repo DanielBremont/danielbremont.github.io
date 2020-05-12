@@ -54,7 +54,6 @@ orden: 5
 - [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
 - [Developer tools for deep learning](https://app.wandb.ai/)
 - [Reactive Resume](https://rx-resume.web.app/)
-- [Our World in Data](https://ourworldindata.org/)
 - [DevDocs API](https://devdocs.io/)
 - [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 - [Keybr](https://www.keybr.com/)
@@ -65,7 +64,7 @@ orden: 5
 
 - [Demystifying Science](https://demystifyingscience.com/)
 - [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-- [Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+
 
 - [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 - [High Scalability](http://highscalability.squarespace.com/)
