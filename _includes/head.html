@@ -7,23 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.title == "Inicio" %}
     {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
     {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
-  <style>
-    #toc {
-        float: right;
-        position: fixed;
-    }
-  
-    #toc ul{
-        list-style: none;
-    }
-  </style>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
@@ -31,22 +20,10 @@
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
-  <link rel="stylesheet" href="/public/css/blog.css">
-  <link rel="stylesheet" href="/public/css/boostrap.css">
-
-  <!-- add after bootstrap.min.css -->
-<link
-rel="stylesheet"
-href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css"
-/>
-
-
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <style>
     a[target="_blank"]::after {
@@ -55,4 +32,6 @@ href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.c
     }
   </style>
 
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
