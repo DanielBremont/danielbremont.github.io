@@ -16,3 +16,6 @@ Models for Covid-19
 
 - Modelar el valor que aprender *x* o hacer *y* me puede traer.
     - Antes de agregar conocimiento al blog verificar como encaja con los otros conocimientos, con las cosas practicas de mi vida, "si compone", si puedo explorarlo, replicarlo.
+    - Me permite mejorar las cosas que hago.
+    - Los problemas que estoy intentando resolver.
+    - Proyectos que esoy intentado hacer.
