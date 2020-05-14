@@ -53,7 +53,6 @@ orden: 4
 - **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
 
 # Computer Science
 
@@ -96,6 +95,9 @@ orden: 4
 
 ## Others
 - [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
+- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
+- [Introduction to Modeling and Simulation](https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/index.htm)
+
 - [Scientific Computing for Physicists](https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468)
 
 - [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/)
