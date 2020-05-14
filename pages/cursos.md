@@ -7,31 +7,24 @@ orden: 4
 <!--more-->
 
 # Maths
-- [Invitation to Mathematics](https://nptel.ac.in/courses/111/106/111106083/)
-
 - [Single Variable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [Multivariable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
 - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
-- [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-- [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 - [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
 - [Real Analysis - Harvey Mudd College](http://analysisyawp.blogspot.com/)
 
-- [From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling](http://www.lithoguru.com/scientist/statistics/)
-- [Decision-Making Under Uncertainty](https://nptel.ac.in/courses/110106134/)
-- [Online Statistics Review Course](http://lithoguru.com/scientist/statistics/review.html)
-- [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
-- [Mathematical Methods for Quantitative Finance](https://www.edx.org/es/course/mathematical-methods-for-quantitative-finance)
-- [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
 - [Linear Algebra Done Right](http://linear.axler.net/ )
     - [Videos](http://linear.axler.net/LADRvideos.html)
     - [Solutions](https://linearalgebras.com/)
 
+- [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
+- [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
 
 # Data
 
@@ -48,11 +41,11 @@ orden: 4
 
 - [Choosing the right course for a Practical NLP Engineer](https://airev.us/Home/ultimate-guide-to-natural-language-processing-courses/)
 
-
 - [Natural Language Processing (11-411)](http://demo.clab.cs.cmu.edu/NLP/)
 - [Natural Language Processing with Deep Learning (CS224n)](http://web.stanford.edu/class/cs224n/)
 - [Natural Language Understanding (CS224U)](https://web.stanford.edu/class/cs224u/)
 
+- [From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling](http://www.lithoguru.com/scientist/statistics/)
 - [Probabilistic Graphical Models (10-708)](https://sailinglab.github.io/pgm-spring-2019/)
 
 - [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
@@ -66,7 +59,6 @@ orden: 4
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
 - [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
 
-
 # Computer Science
 
 ## Algorithms
@@ -74,7 +66,6 @@ orden: 4
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- [Raft Consensus Algorithm](https://raft.github.io/)
 - [Randomized Algorithms](https://nptel.ac.in/courses/106/103/106103187/)
 
 ## Data Systems
