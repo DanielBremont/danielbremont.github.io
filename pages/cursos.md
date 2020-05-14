@@ -15,8 +15,6 @@ orden: 4
 - [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
 - [Real Analysis - Harvey Mudd College](http://analysisyawp.blogspot.com/)
 
-- [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
 - [Linear Algebra Done Right](http://linear.axler.net/ )
@@ -24,13 +22,11 @@ orden: 4
     - [Solutions](https://linearalgebras.com/)
 
 - [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
-- [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
 
 # Data
 
 - [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Machine Learning (10-701)](http://alex.smola.org/teaching/10-701-15/)
 - [Machine Learning (mlcourse.ai)](https://mlcourse.ai/)
 - [Intelligent System](https://intelligentsystem.io/)
 - [W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
@@ -57,16 +53,31 @@ orden: 4
 - **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
+- **[Simulation Neuroscience]**(https://www.edx.org/es/course/simulation-neuroscience)
 
 # Computer Science
 
-## Algorithms
+- [the missing semester of your cs education](https://missing.csail.mit.edu/2020/)
 
+## Algorithms
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- [Randomized Algorithms](https://nptel.ac.in/courses/106/103/106103187/)
+
+## Software Engineering
+
+- [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
+
+## System Programming
+
+- [Computer Systems](https://my.eng.utah.edu/~cs4400/)
+- [Foundations to Computer Systems Design](https://onlinecourses.nptel.ac.in/noc20_cs34/course?user_email=dervin.bremont@gmail.com)
+
+## Operative Systems
+
+- [Operating System](https://onlinecourses.nptel.ac.in/noc20_cs04/course?user_email=dervin.bremont@gmail.com)
+- [Operating System (CS4414)](https://www.cs.virginia.edu/~cr4bd/4414/S2020)
 
 ## Data Systems
 
@@ -75,34 +86,16 @@ orden: 4
 
 ## Networks
 
-- [Cloud Computing and Distributed Systems](https://onlinecourses.nptel.ac.in/noc20_cs48/course?user_email=dervin.bremont@gmail.com)
 - [Computer Networks and Internet Protocol](https://onlinecourses.nptel.ac.in/noc20_cs23/course?user_email=dervin.bremont@gmail.com)
 - [Fundamentals of Computer Networks (14-740)](http://ini740.com/)
-
-## Operative Systems
-
-- [Operating System](https://onlinecourses.nptel.ac.in/noc20_cs04/course?user_email=dervin.bremont@gmail.com)
-- [Operating System (CS4414)](https://www.cs.virginia.edu/~cr4bd/4414/S2020)
 
 ## Security
 
 - [Hacker101](https://www.hacker101.com/)
 - [CS253 - Web Security](https://web.stanford.edu/class/cs253/)
 
-## Software Engineering
-
-- [Introduction to the ASP.NET Web API](https://app.pluralsight.com/player?author=jon-flanders&clip=3&course=aspnetwebapi&mode=live&name=aspnetwebapi-m1-introduction)
-- [Programming with Categories](http://brendanfong.com/programmingcats.html)
-- [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
-- [Software Engineering UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
-
-## System Programming
-
-- [Computer Systems](https://my.eng.utah.edu/~cs4400/)
-- [Foundations to Computer Systems Design](https://onlinecourses.nptel.ac.in/noc20_cs34/course?user_email=dervin.bremont@gmail.com)
-- [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
-- [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/)
-
-- [the missing semester of your cs education](https://missing.csail.mit.edu/2020/)
-- [High Performace Computing](https://www.udacity.com/course/high-performance-computing--ud281)
+## Others
+- [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
 - [Scientific Computing for Physicists](https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468)
+
+- [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/)
