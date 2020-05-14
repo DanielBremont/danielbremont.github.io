@@ -15,3 +15,6 @@ Todos los modelos van aqui !!!
     - Me permite mejorar las cosas que hago.
     - Los problemas que estoy intentando resolver.
     - Proyectos que esoy intentado hacer.
+    - Most gains for the least amount of time.
+    - Fruta larga colgando
+    - Marginal gains
