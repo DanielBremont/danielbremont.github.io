@@ -17,6 +17,7 @@ orden: 4
 - [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 - [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
+- [Real Analysis - Harvey Mudd College](http://analysisyawp.blogspot.com/)
 
 - [From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling](http://www.lithoguru.com/scientist/statistics/)
 - [Decision-Making Under Uncertainty](https://nptel.ac.in/courses/110106134/)
@@ -25,13 +26,12 @@ orden: 4
 
 - [Mathematical Methods for Quantitative Finance](https://www.edx.org/es/course/mathematical-methods-for-quantitative-finance)
 - [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
-- [6.047/6.878  Machine Learning in Genomics](http://stellar.mit.edu/S/course/6/fa19/6.047/)
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
 - [Linear Algebra Done Right](http://linear.axler.net/ )
     - [Videos](http://linear.axler.net/LADRvideos.html)
     - [Solutions](https://linearalgebras.com/)
-- [Introduction to Abstract and Linear Algebra](https://nptel.ac.in/courses/111105112/)
+
 
 # Data
 

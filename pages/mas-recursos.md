@@ -48,6 +48,7 @@ orden: 5
 - [Alculus](https://artofproblemsolving.com/alcumus/problem)
 - [Crodmath](https://artofproblemsolving.com/polymath)
 - [AOPS Community](https://artofproblemsolving.com/community)
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 
 - [Opensource.builders](https://opensource.builders/)
 - [The latest Sci-Hub working domain](https://lovescihub.wordpress.com/)
@@ -64,7 +65,9 @@ orden: 5
 
 - [Demystifying Science](https://demystifyingscience.com/)
 - [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
 
+- [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
 
 - [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 - [High Scalability](http://highscalability.squarespace.com/)
@@ -84,6 +87,7 @@ orden: 5
 - [mitmproxy is a free and open source interactive HTTPS proxy](https://mitmproxy.org/)
 - [GoReplay network monitoring tool](https://goreplay.org/)
 - [nfstream: a flexible network data analysis framework](https://nfstream.github.io/)
+- [MetaMate Showcase (Good Visualization of HackerNews)](https://showcase.metamate.io/hackernews-trends)
 
 # Librerias
 
