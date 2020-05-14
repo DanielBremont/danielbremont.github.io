@@ -53,7 +53,7 @@ orden: 4
 - **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
 - **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
-- [**Simulation Neuroscience**](https://www.edx.org/es/course/simulation-neuroscience)
+- [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
 
 # Computer Science
 

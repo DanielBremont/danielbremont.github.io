@@ -9,6 +9,8 @@ orden: 5
 - [The Batch - deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 - [Technology Radar \| An opinionated guide to technology frontiers](https://www.thoughtworks.com/radar)
 - [Farnam Street](https://fs.blog/)
+- [Fast AI Forums](https://forums.fast.ai/)
+- [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
 
 # Personas
 
@@ -68,7 +70,6 @@ orden: 5
 - [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
 
-- [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
 
 - [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 - [High Scalability](http://highscalability.squarespace.com/)
