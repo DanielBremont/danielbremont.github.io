@@ -13,3 +13,6 @@ https://knowledge.wharton.upenn.edu/article/page-model-thinker-book/
 
 Models for Covid-19
 [Ir](https://sites.google.com/umich.edu/manymodelsclovid19/home?authuser=0)
+
+- Modelar el valor que aprender *x* o hacer *y* me puede traer.
+    - Antes de agregar conocimiento al blog verificar como encaja con los otros conocimientos, con las cosas practicas de mi vida, "si compone", si puedo explorarlo, replicarlo.
