@@ -1,27 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body data-spy="scroll" data-target="#toc">
+  <body class="">
 
-  <div class="row">
-  <div class="col-md-3">
+    {% include sidebar.html %}
 
-  {% include sidebar.html %}
+    <div class="content container">
+      {{ content }}
+    </div>
 
-  </div>
-
-  <div class="col-md-9">
-
-
-  <div class="content container">
-    {{ content }}
-  </div>
-
-</div>
-</div>
-</body>
+  </body>
 
 <!-- to render markdown -->
 <script type="text/javascript" async
