@@ -4,8 +4,6 @@ title: Posts
 orden: 7
 ---
 
-# Entrada
-
 <ul>
 {% for cat in site.categories %}
 <li>
