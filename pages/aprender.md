@@ -48,4 +48,4 @@ orden: 1
     Avoid doing any work on anything that's not circled.
 - [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
 - [A Statistical Analysis of Coughing Patterns on ‘Who Wants To Be A Millionaire?’](https://medium.com/@liam.philip.shawa-statistical-analysis-of-coughing-patterns-on-who-wants-to-be-a-millionaire-187be5cc6af1)
-- [AI Basketball](https://ai-basketball-analysis.herokuapp.com/
+- [AI Basketball](https://ai-basketball-analysis.herokuapp.com/)
