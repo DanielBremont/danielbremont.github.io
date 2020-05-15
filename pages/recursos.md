@@ -11,7 +11,7 @@ orden: 6
 
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
-- [Linear Algebra Done Right](http://linear.axler.net/ )
+- [Linear Algebra Done Right](http://linear.axler.net/ )    
     - [Videos](http://linear.axler.net/LADRvideos.html)
     - [Solutions](https://linearalgebras.com/)
 
