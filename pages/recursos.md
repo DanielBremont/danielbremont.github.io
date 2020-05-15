@@ -8,10 +8,6 @@ orden: 6
 - [Single Variable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [Multivariable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
-- [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
-
-- [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
-- [Real Analysis - Harvey Mudd College](http://analysisyawp.blogspot.com/)
 
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
@@ -100,6 +96,13 @@ orden: 6
 
 - [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/)
 
+- [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+- [Math 140A – Intro to Analysis](https://sites.uci.edu/ptabrizi/math140asp20/)
+- [Real Analysis - Harvey Mudd College](http://analysisyawp.blogspot.com/)
+
+# Journals
+
+- [Distill](https://distill.pub/)
 
 # Blogs
 
@@ -119,6 +122,7 @@ orden: 6
 - [Kira Radinsky ](http://www.kiraradinsky.com/)
 - [Ben Lambert - Econometrics, Stats, ...](https://ben-lambert.com/)
 - [Erick Bernhardsson](https://erikbern.com/)
+- [Michael Nielsen](http://michaelnielsen.org/)
 
 # Sitios Web Importantes
 
@@ -202,3 +206,4 @@ orden: 6
 - [selfie An educational software system](http://selfie.cs.uni-salzburg.at/)
 - [Qemu the FAST! processor emulator](https://www.qemu.org/)
 - [Open-source illustrations for any idea you can imagine and create](https://undraw.co/)
+- [MathJax](https://docs.mathjax.org/)

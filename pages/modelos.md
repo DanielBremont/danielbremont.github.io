@@ -10,6 +10,7 @@ Todos los modelos van aqui !!!
 
 - Models for Covid-19 [Ir](https://sites.google.com/umich.edu/manymodelsclovid19/home?authuser=0)
     - [covid19-projections.com](https://covid19-projections.com/)
+    - [Nature Modeling Covid-19](https://www.nature.com/articles/s42254-020-0178-4.pdf)
 
 - Modelar el valor que aprender *x* o hacer *y* me puede traer.
     - Antes de agregar conocimiento al blog verificar como encaja con los otros conocimientos, con las cosas practicas de mi vida, "si compone", si puedo explorarlo, replicarlo.
