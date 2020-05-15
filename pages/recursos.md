@@ -103,6 +103,7 @@ orden: 6
 # Journals
 
 - [Distill](https://distill.pub/)
+- [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 
 # Blogs
 
@@ -135,11 +136,9 @@ orden: 6
 - [ClassTranscribe](https://classtranscribe.illinois.edu/home)
 - [Udemy](https://www.udemy.com/)
 - [Learn.Genetics](https://learn.genetics.utah.edu/)
-- [Distance Learning Courses and Adult Education - The Open University](http://www.open.ac.uk/)
 - [Now the essence of knowledge](https://www.nowpublishers.com/)
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
-- [Grupo Lens - Social Computing Research](https://grouplens.org/)
 - [InfoCoBuild](http://www.infocobuild.com/)
 
 - [Expii - Learn Creatively](https://www.expii.com/)
@@ -160,7 +159,6 @@ orden: 6
 - [Developer tools for deep learning](https://app.wandb.ai/)
 - [Reactive Resume](https://rx-resume.web.app/)
 - [DevDocs API](https://devdocs.io/)
-- [ICLR 2020](https://iclr.cc/virtual_2020/index.html)
 - [Keybr](https://www.keybr.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
