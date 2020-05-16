@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scalability Rules
+title: Language Implementation Patterns
 categories: [libros]
 tags: [conocimiento, libro, saber, hacer, cs]
 ---
