@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning
+title: Sobre el Aprendisaje
 categories: [articles]
 tags: [learning]
 ---
