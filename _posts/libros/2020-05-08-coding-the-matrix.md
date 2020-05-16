@@ -6,6 +6,9 @@ categories: libros
 
 <!--more-->
 
+[Coding the Matrix Resources](http://resources.codingthematrix.com/)
+[Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
+
 # The Funtion (and other mathematical and computational preliminaries)
 # The Field
 # The Vector

@@ -170,6 +170,7 @@ orden: 6
 - [Tiny Habits Expert Help](https://www.tinyhabits.com/expert-help)
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 - [InfoCoBuild](http://www.infocobuild.com/)
+- [Academic Torrents](http://academictorrents.com/)
 
 - [Expii - Learn Creatively](https://www.expii.com/)
 - [Khan Academy](https://www.khanacademy.org/)
