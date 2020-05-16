@@ -46,7 +46,6 @@ orden: 6
 - **Chemistry**: [Principles of Chemical Science](https://ocw.mit.edu/courses/chemistry 5-111sc-principles-of-chemical-science-fall-2014)
 - **Physics I**: [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 - **Physics II**: [Electricity and Magnetism](https://www.edx.org/es/xseries/mitx-introductory-electricity-and-magnetism)
-- **Physics III**: [Vibrations and Waves](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
 
 # Computer Science
 

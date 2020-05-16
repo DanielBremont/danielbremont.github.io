@@ -16,7 +16,9 @@ orden: 5
   <h2 id="{{ cat[0] }}">{{ cat[0] }}</h2>
   <ul>
     
-    {% for post in cat[1] reversed %}
+    {% assign sortedPosts = cat[1] | sort: 'title' %}
+
+    {% for post in sortedPosts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 
