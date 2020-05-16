@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting Interpreters
+title: Dive into Deep Learning
 categories: [libros]
 tags: [conocimiento, libro]
 ---
