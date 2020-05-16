@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basecampt Getting Real
+title: Basecamp Getting Real
 categories: [libros]
 tags: [conocimiento, libro]
 ---
