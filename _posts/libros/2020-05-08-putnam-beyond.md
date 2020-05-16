@@ -1,6 +1,6 @@
 ---
 proyecto: blog.dbremont.dev
-title: Putnam and B
+title: Putnam and Beyond
 categories: libros
 ---
 
