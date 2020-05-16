@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert Programmers and Programming Languages
+title: Large Run Time Systems Overview
 categories: [papers]
 tags: [conocimiento, paper, saber, cs]
 ---
