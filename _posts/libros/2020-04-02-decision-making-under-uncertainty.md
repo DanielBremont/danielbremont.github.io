@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading and Modifying Code
+title: Decision Making Under Uncertainty
 categories: [libros]
 tags: [conocimiento, libro]
 ---
