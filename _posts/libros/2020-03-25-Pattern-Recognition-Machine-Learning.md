@@ -46,9 +46,15 @@ Python codes implementing algorithms described in Bishop's book "Pattern Recogni
 - [ch6. Kernel Methods](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch06_Kernel_Methods.ipynb)
 - [ch7. Sparse Kernel Machines](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch07_Sparse_Kernel_Machines.ipynb)
 - [ch9. Mixture Models and EM](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch09_Mixture_Models_and_EM.ipynb)
-- [ch10. Approximate Inference](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch10_Approximate_Inference.ipynb)
+- [ch10. Approximate Inference](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch10_Approximate_Inference.ipynb
 - [ch11. Sampling Methods](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch11_Sampling_Methods.ipynb)
 - [ch12. Continuous Latent Variables](https://nbviewer.jupyter.org/github/ctgk/PRML/blob/master/notebooks/ch12_Continuous_Latent_Variables.ipynb)
 
   
-Thanks for reading!
+## Solutions to “Pattern Recognition and Machine Learning” by Bishop
+
+[Ir](https://tommyodland.com/files/edu/bishop_solutions.pdf)
+
+## Solutions by Bishop
+
+[Ir](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)
