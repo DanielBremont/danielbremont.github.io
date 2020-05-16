@@ -9,7 +9,7 @@ Log/blog agregacion de la informacion mas interesante que consulto.
 All about Monozukuri: Making Things
  </div>
 
-Temas:
+# Temas:
 
 - Matematicas
 - Ciencias de la computacion
