@@ -28,7 +28,7 @@ orden: 2
 
 1. (Brilliant)[Ir](https://brilliant.org/practice/completing-the-square-find-the-vertex/?subtopic=quadratic-equations&chapter=completing-the-square) What is the minimum value of the quadratic function
 
-$$$$y = 2x^2 + 4x + 16$$$$
+$$y = 2x^2 + 4x + 16$$
 
 2. (Brilliant)[Ir](https://brilliant.org/practice/completing-the-square-applications/?subtopic=quadratic-equations&chapter=completing-the-square)
 As $$x$$ ranges over all real values, what is the minimum value of 
