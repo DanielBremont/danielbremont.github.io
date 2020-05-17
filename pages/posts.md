@@ -4,15 +4,17 @@ title: Posts
 orden: 5
 ---
 
+assign sortedCategories = site.categories | sort: 'title'
+
 <ul>
-{% for cat in site.categories %}
+{% for cat in sortedCategories %}
 <li>
   <a href="#{{ cat[0] }}"> {{ cat[0] }} ({{ cat[1].size }})</a>
   </li>
 {% endfor %}
 </ul>
 
-{% for cat in site.categories %}
+{% for cat in sortedCategories %}
   <h2 id="{{ cat[0] }}">{{ cat[0] }}</h2>
   <ul>
     
