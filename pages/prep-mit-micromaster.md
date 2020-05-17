@@ -11,19 +11,27 @@ orden: 8
     y asi prepararme para el Micromaster.
 </div>
 
-## Fuentes:
+## Fuentes Primarias
 
 - [Single Variable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-
+    - [MIT Differential Calculus](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/course/)
+    - [MIT Integral Calculus](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/course/)
+    - [Brilliant Calculus](https://brilliant.org/calculus/)
+    - [AOPS Calculus](https://artofproblemsolving.com/ebooks/calculus-ebook/c0toc)
+    - [Khan Academy Calculus](https://www.khanacademy.org/math/ap-calculus-ab)
+    
 - [Multivariable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+    - [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 - [Mathematics for Machine Learning](https://blog.dbremont.dev/libros/2020/04/02/mathematics-for-machine-learning/)
+    - [Web Site](https://mml-book.github.io/)
+    - [Jupyter notebooks for Chapter 2-7](https://github.com/vbartle/MML-Companion)
+
+## Otras Secundarias
 
 - The art of problem solving volume 1: the basics : AOPSV1
 
 - The art of problem solving volume 2: the basics : AOPSV2
-
-- [Brilliant](https://brilliant.org)
 
 - [The Putnam Archive](https://kskedlaya.org/putnam-archive/)
 
