@@ -21,8 +21,6 @@ orden: 6
 
 - [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Machine Learning (mlcourse.ai)](https://mlcourse.ai/)
-- [Intelligent System](https://intelligentsystem.io/)
 - [W4995 Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
 
 - [CMU Deep   - Learning (11-785)](http://deeplearning.cs.cmu.edu/)
@@ -86,10 +84,13 @@ orden: 6
 - [Hacker101](https://www.hacker101.com/)
 - [CS253 - Web Security](https://web.stanford.edu/class/cs253/)
 
-# Others
+# Others Courses
 - [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
 - [Simulation Neuroscience](https://www.edx.org/es/course/simulation-neuroscience)
 - [Introduction to Modeling and Simulation](https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/index.htm)
+
+- [Intelligent System](https://intelligentsystem.io/)
+- [Machine Learning (mlcourse.ai)](https://mlcourse.ai/)
 
 - [Scientific Computing for Physicists](https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468)
 
