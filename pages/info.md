@@ -5,7 +5,7 @@ orden: 9
 ---
 
 <div class="message">
-Monozukuri: Making Things
+Monozukuri: Making Things <br/>
 Log/blog agregación de la información que consulto.
  </div>
 
