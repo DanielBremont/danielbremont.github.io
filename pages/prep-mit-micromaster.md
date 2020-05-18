@@ -24,6 +24,7 @@ orden: 8
     - [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 - [Mathematics for Machine Learning](https://blog.dbremont.dev/libros/2020/04/02/mathematics-for-machine-learning/)
+    - [Mi Resumen](/libros/2020/04/02/mathematics-for-machine-learning/)
     - [Web Site](https://mml-book.github.io/)
     - [Jupyter notebooks for Chapter 2-7](https://github.com/vbartle/MML-Companion)
 

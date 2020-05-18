@@ -1,6 +1,6 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
-nombrepost: forecasting_principles_practice
 title: Forecasting Principles and Practice
 categories: libros
 ---

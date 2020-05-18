@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: How we know what isn't so - Thomas Gilovich
 categories: libros

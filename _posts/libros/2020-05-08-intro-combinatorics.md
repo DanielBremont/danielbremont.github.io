@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: An Introduction to Combinatorics
 categories: libros

@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Putnam and Beyond
 categories: libros

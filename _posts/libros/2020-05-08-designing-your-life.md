@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Designing your life - how to build a well-lived, joyful life
 categories: libros

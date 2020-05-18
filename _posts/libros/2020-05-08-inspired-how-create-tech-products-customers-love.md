@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Inspired how to Create tech products customers love
 categories: libros

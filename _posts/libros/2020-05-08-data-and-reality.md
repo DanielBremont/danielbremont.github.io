@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Data & Reality - A timeless perpective on percieving and managing information in our imprecise world
 categories: libros

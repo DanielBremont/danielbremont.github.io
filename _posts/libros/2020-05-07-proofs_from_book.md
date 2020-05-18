@@ -1,6 +1,6 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
-nombrepost: proofs_from_book
 title: Proofs from THE BOOK
 categories: libros
 ---

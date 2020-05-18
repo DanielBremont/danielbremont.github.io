@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Engineering Software as a Service - An Agile Approach Using Cloud Computing
 categories: libros

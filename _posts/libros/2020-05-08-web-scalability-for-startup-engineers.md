@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Web Scalability for Startup Engineers - Tips & Techniques for Scaling Your Web Application
 categories: libros

@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Statistical Models - Theory and Practice
 categories: libros

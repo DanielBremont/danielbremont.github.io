@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Coding the Matrix - Linear Algebra through Applications to Compute Science
 categories: libros

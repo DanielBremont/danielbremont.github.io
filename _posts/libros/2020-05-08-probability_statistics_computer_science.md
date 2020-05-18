@@ -1,6 +1,6 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
-nombrepost:  probability_statistics_computer_science
 title: Probability and Statistics for Computer Science
 categories: libros
 ---

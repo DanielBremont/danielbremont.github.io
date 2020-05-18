@@ -1,6 +1,6 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
-nombrepost:  probability_statistics_computer_science
 title: Python Data Science Handbook
 categories: libros
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Proofs That Really Count The Art of Combinatorial Proof
 categories: libros

@@ -1,6 +1,6 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
-nombrepost: data_science_design_manual
 title: THE Data Science Design MANUAL
 categories: libros
 ---

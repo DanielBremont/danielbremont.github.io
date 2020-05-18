@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: The life-changing magic of tidying up - the Japonese art of decluterring and organization
 categories: libros

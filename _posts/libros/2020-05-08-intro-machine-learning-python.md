@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title: Introduction to Machine Learning with Python
 categories: libros

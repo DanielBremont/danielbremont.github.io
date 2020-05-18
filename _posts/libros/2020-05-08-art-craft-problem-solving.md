@@ -1,4 +1,5 @@
 ---
+layout: post
 proyecto: blog.dbremont.dev
 title:  The Art and Craft of Problem Solving
 categories: libros
