@@ -173,7 +173,10 @@ orden: 6
 - [InfoCoBuild](http://www.infocobuild.com/)
 - [Academic Torrents](http://academictorrents.com/)
 - [+ plus magazine](https://plus.maths.org/content/)
+
 - [Made with ML](https://madewithml.com/)
+- [dev.io](https://dev.to/)
+
 
 - [Expii - Learn Creatively](https://www.expii.com/)
 - [Khan Academy](https://www.khanacademy.org/)
