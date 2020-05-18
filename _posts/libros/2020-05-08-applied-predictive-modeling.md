@@ -5,6 +5,8 @@ title: Applied Predictive Modeling
 categories: libros
 ---
 
+[Ir](http://appliedpredictivemodeling.com/)
+
 <!--more-->
 
 # Introduction
