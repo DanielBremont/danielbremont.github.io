@@ -12,17 +12,6 @@ orden: 2
    1. $$y = x^2  - 2x - 1$$
    2. $$y = 3x^2 + 6x + 2$$
 
-## Martes
-
-1. (Linear Algebra - Problem 1.1) [Ir](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/MIT18_06SCF11_Ses1.1prob.pdf) Find a combination $$x_1w_1 + x_2w_2 + x_3w_3$$ that gives the zero vector:
-   
-   $$w_1 = \begin{bmatrix}2\\1\\3\end{bmatrix}$$ 
-   $$w_2 = \begin{bmatrix}4\\5\\6\end{bmatrix}$$
-   $$w_3 = \begin{bmatrix}7\\8\\9\end{bmatrix}$$
-
-   Those vectors are (independent)(dependent).
-
-   The three vectors lie in a ________ . The matrix W with those columns is not invertible.
 
 ## Miercoles
 
