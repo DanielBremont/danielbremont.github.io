@@ -9,6 +9,8 @@ Monozukuri: Making Things <br/>
 Log/blog agregación de la información que consulto.
  </div>
 
+> What one fool can do, another can. <br/> *Ancient Simian Proverb*
+ 
 # Temas
 
 - Matemáticas aplicadas
