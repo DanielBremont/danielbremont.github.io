@@ -18,6 +18,6 @@ Log/blog agregación de la información que consulto.
 
 ---
 
-# Estadisticas
+# Estadísticas
 - Ultima Compilacion: {{site.time | date_to_string}} <br/>
 - Cantidad de Posts: {{site.posts | size}}
