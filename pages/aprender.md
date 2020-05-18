@@ -48,3 +48,6 @@ orden: 1
 - [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
 - [A Statistical Analysis of Coughing Patterns on ‘Who Wants To Be A Millionaire?’](https://medium.com/@liam.philip.shawa-statistical-analysis-of-coughing-patterns-on-who-wants-to-be-a-millionaire-187be5cc6af1)
 - [AI Basketball](https://ai-basketball-analysis.herokuapp.com/)
+- [Programming Models](https://asc.llnl.gov/content/assets/docs/exascale-pmWG.pdf)
+- [Reflective Practice](https://en.wikipedia.org/wiki/Reflective_practice)
+    - [More](https://www.cambridge-community.org.uk/professional-development/gswrp/index.html)

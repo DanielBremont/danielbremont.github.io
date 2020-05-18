@@ -1,23 +1,20 @@
 ---
 layout: page
-title: Informacion
+title: Información
 orden: 9
 ---
 
 <div class="message">
-Log/blog agregacion de la informacion mas interesante que consulto.
-All about Monozukuri: Making Things
+Monozukuri: Making Things
+Log/blog agregación de la información que consulto.
  </div>
 
 # Temas
 
-- Matematicas
-- Ciencias de la computacion
-- Ciencias con menta en la aplicacion
-  - Fisica
-  - Quimica
-  - Biologia
-- Meta (Auto-analisis de mis actividades)
+- Matemáticas aplicadas
+- Inteligencia Artificial
+- Programación
+- Autoreflección/Autoanálisis
 
 ---
 

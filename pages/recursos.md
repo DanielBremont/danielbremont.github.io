@@ -172,6 +172,7 @@ orden: 6
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 - [InfoCoBuild](http://www.infocobuild.com/)
 - [Academic Torrents](http://academictorrents.com/)
+- [+ plus magazine](https://plus.maths.org/content/)
 
 - [Expii - Learn Creatively](https://www.expii.com/)
 - [Khan Academy](https://www.khanacademy.org/)
