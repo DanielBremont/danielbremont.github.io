@@ -5,7 +5,7 @@ orden: 9
 ---
 
 <div class="message">
-Monozukuri: Making Things <br/>
+<strong> Monozukuri :</strong> Making Things <strong>(that matter to me 😉)</strong>. <br/>
 Log/blog agregación de la información que consulto.
  </div>
 
@@ -19,6 +19,8 @@ Log/blog agregación de la información que consulto.
 - Autoreflección/Autoanálisis
 
 ---
+
+# Proyectos
 
 # Estadísticas
 - Ultima Compilacion: {{site.time | date_to_string}} <br/>

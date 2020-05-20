@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Automation
+title: Automatización Personal
 categories: [articles]
-tags: [utomation]
 ---
 
 ## AutoHotKey
