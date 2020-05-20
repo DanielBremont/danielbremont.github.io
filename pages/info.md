@@ -22,6 +22,8 @@ Log/blog agregación de la información que consulto.
 
 # Proyectos
 
+Todo
+
 # Estadísticas
 - Ultima Compilacion: {{site.time | date_to_string}} <br/>
 - Cantidad de Posts: {{site.posts | size}}
