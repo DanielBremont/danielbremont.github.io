@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Behavior Model for Persuasive Design
+title: Captology - A Behavior Model for Persuasive Design
 categories: [papers]
 ---
 
