@@ -8,6 +8,7 @@ orden: 1
 
 - D3 Data Visualization (For Interactive Post)
 - How Debuggers Work
+- Virtual environments: virtualenv, bundler.
 - Profiling
 - Docker
 - Web analytics basics

@@ -24,6 +24,10 @@ Log/blog agregación de la información que consulto.
 
 - Hacer un word cloud sobre los temas del blog.
 
+- dlogme, analiticas personales, con su interfaz web.
+    - Integracion con correos
+    - Google Tasks
+
 Este documento tiene por objetivos organizar las ideas para proyectos, su documentacion, recursos, habilidades requeridas.
 
 Además de ideas para proyectos, nos podemos proponer proyectos intelectuales, como leer un libro, escribir un post, hacer una demostración, aprender una nueva tecnología.

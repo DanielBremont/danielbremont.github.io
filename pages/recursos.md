@@ -140,7 +140,7 @@ orden: 6
 - [nfstream: a flexible network data analysis framework](https://nfstream.github.io/)
 - [MetaMate Showcase (Good Visualization of HackerNews)](https://showcase.metamate.io/hackernews-trends)
 - [fastai fastpages](https://github.com/fastai/fastpages)
-
+- [spacy - Industrial-Strength Natural Language Processing IN PYTHON](https://spacy.io/)
 # Librerias
 
 - [Rrweb Record and replay the web](https://www.rrweb.io/)
