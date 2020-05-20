@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Captology - Online Persuasion in Facebook and Mixi - A Cross-Cultural Comparison
+title: Captology - Online Persuasion in Facebook and Mixi
 categories: [papers]
 ---
 
