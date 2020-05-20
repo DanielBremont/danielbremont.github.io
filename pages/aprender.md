@@ -37,6 +37,14 @@ orden: 1
     Consuming media (books, blogs, whatever) is not inherently a compounding thing. Only if you have some kind of method to reflect, to digest, to incorporate your knowledge into your thoughts. If there is anything valuable in this post, you, reader, will probably not benefit from it unless you do something active to “process” it immediately.
 - Write your goals on a sheet of paper.     
     Circle the three most important. 
+
+- Long-Polling
+- Websockets
+- Server-Sent Events (SSE)
+- Comet
+
+- **Do you feel a Ph.D. or Masters level of expertise is necessary or one can contribute to the field of Deep Learning without being an “expert”?**
+    Plenty of significant contributors in the field of deep learning today don’t have a Ph.D. To contribute meaningfully to a field, whether with systems development or with novel research, you absolutely do need to have a certain level of expertise. But you can gain expertise without going through a Ph.D. program, obviously, and having a Ph.D. is not actually a guarantee that you’ve developed meaningful expertise in anything — in theory it should, but as far as I can tell, reality doesn’t align very well with that theory. In fact, unless you aim at becoming an academic, I don’t think getting a Ph.D. is the best path to gaining expertise. The best path is a path that gets you to grow fast, open-endedly. And you will learn the fastest by working on a large variety of projects in situations of teamwork and close mentorship from experts. In practice, the typical Ph.D. program looks nothing like that.
     
     Avoid doing any work on anything that's not circled.
 - [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes to Myself on Software Engineering
+title: Software Engineering - Notes to Myself
 categories: [articles]
 tags: [cs]
 ---

@@ -2,10 +2,11 @@
 layout: post
 title: System Performace
 categories: [libros]
-tags: [conocimiento, libro, saber, hacer, cs]
 ---
 
 <!--Resumen-->
+
+[Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 
 Topics 
 
