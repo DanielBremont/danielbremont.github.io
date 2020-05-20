@@ -18,6 +18,7 @@ Author:
 
 [George Armitage Miller](https://es.wikipedia.org/wiki/George_Armitage_Miller)
 
+<!--more-->
 
 ## Software Metrics
 

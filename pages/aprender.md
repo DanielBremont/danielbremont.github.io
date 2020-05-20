@@ -138,3 +138,27 @@ orden: 1
     - When a measure becomes a target, it ceases to be a good measure.
     - Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
     - Metric manipulation
+
+- **Learn the Math**
+
+What does it mean to multiply two matrices together? What is a determinant? What is a matrix decomposition? What is a matrix? What is a vector?
+
+You might have noticed but data is usually stored as arrays in a computer and matrices/vectors have a lot of tricks you can do.
+
+Basic statistics. How does something like PCA work? What is an eigenvector?
+
+Then comes calculus. How does a neural network learn? How does optimization work?
+
+I am not talking about the big picture. I am talking about grabbing a pen and paper and going through it step-by-step and computing things by hand.
+
+And most importantly, how do you learn and understand these things without a step-by-step tutorial where they hold your hand? Because there usually isn't a step-by-step tutorial.
+
+Those intimidating looking equations don't contain anything you can't learn by taking linear algebra 1,2, calc 1,2,3, vector calc and perhaps differential equations. That's a minor in math or so, pretty much what every physicist, engineer etc. goes through.
+
+That's it. The rest is applications of that fundamental knowledge. If you "learn the math" then you can pick up a book or a research paper and work through it yourself.
+
+Just like for a kindergardener 56*45 looks like super advanced math they couldn't possibly comprehend and a keras tutorial looks like alien language to a college freshman that hasn't programmed before, fundamental math looks like "intimidating equations" while in reality they are the equivalent of some pseudocode.
+
+Learn the math and all of these problems you're having are going to go away. Just like learning programming isn't about watching a lecture, learning math isn't about watching a lecture or reading a book either. Go get paper and a pen (or preferably an ipad and pencil, best thing ever) and go do some university courses. Do the 20 weekly exercises they assign you that take 10-12 hours to complete. At the end (~5 courses so I guess 1 year of a few hours a week) you're going to read the math in papers like you read the pseudocode in the papers.
+
+Doing machine learning without having the fundamental math background is like doing machine learning without knowing how to code. Despite what the "participate in kaggle with no code!" advertisement insists upon my iphone whenever I open reddit, trying to do ML without knowing how to code is a bad idea.

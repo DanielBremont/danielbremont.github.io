@@ -22,7 +22,7 @@ Log/blog agregación de la información que consulto.
 
 # Proyectos
 
-Todo
+- Hacer un word cloud sobre los temas del blog.
 
 # Estadísticas
 - Ultima Compilacion: {{site.time | date_to_string}} <br/>
