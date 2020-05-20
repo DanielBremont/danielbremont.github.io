@@ -38,6 +38,7 @@ orden: 1
 - Write your goals on a sheet of paper.     
     Circle the three most important. 
 
+- website credibility
 - Long-Polling
 - Websockets
 - Server-Sent Events (SSE)
