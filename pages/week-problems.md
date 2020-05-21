@@ -4,7 +4,7 @@ title: Problemas
 orden: 2
 ---
 
-*Semana 2*
+*Problemas Semana 2*
 
 ## Lunes
 
