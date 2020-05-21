@@ -6,6 +6,32 @@ orden: 1
 
 <!--more-->
 
+{::options parse_block_html="true" /}
+
+<div class="message"> 
+**Focus “learning time” on things that compound:**
+ 
+- Compounding is a pretty important concept that shows up in compound interest, in Moore’s Law, all over the place. It’s about virtuous cycles. And so in the limited flexible time that I have, I think the rule of thumb is to focus on things that could trigger a virtuous cycle.
+
+- One perfect place to start is becoming a faster typer. Getting faster allows me to write more, to communicate more, to get more done in the same amount of time, because it makes almost everything I do on the computer faster.
+
+- Building lasting relationships is also a compounding activity because it gives you access to more people who can help you get things done more quickly.
+
+- Consuming (books, papers, blogs, courses, whatever) is not inherently a compounding thing. Only if you have some kind of method to reflect, to digest, to incorporate your knowledge into your thoughts.
+</div>
+
+<div class="message"> 
+**Para realizar mis tareas:**
+
+- Write your goals on a sheet of paper.     
+- Circle the three most important. 
+
+</div>
+
+{::options parse_block_html="false" /}
+
+
+
 - D3 Data Visualization (For Interactive Post)
 - How Debuggers Work
 - Virtual environments: virtualenv, bundler.
@@ -30,15 +56,6 @@ orden: 1
 - Sum of n, n², or n³ [Ir](https://brilliant.org/wiki/sum-of-n-n2-or-n3/)
 - Importacion en python [Ir](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 - Usar metáforas y analogías a la hora de resolver problemas matemáticos.
-- **Focus “learning time” on things that compound**    Compounding is a pretty important concept that shows up in compound interest, in Moore’s Law, all over the place. It’s about virtuous cycles. And so in the limited flexible time that I have, I think the rule of thumb is to focus on things that could trigger a virtuous cycle.
-
-    One perfect place to start is becoming a faster typer. I’ve spent a while in the past two months on keybr.com that teaches you pretty methodically how to type faster. Getting faster allows me to write more, to communicate more, to get more done in the same amount of time, because it makes almost everything I do on the computer faster.
-
-    Building lasting relationships is also a compounding activity because it gives you access to more people who can help you get things done more quickly.
-
-    Consuming media (books, blogs, whatever) is not inherently a compounding thing. Only if you have some kind of method to reflect, to digest, to incorporate your knowledge into your thoughts. If there is anything valuable in this post, you, reader, will probably not benefit from it unless you do something active to “process” it immediately.
-- Write your goals on a sheet of paper.     
-    Circle the three most important. 
 
 - website credibility
 - Long-Polling
