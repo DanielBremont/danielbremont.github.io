@@ -5,17 +5,11 @@ categories: [libros]
 tags: [conocimiento, libro]
 ---
 
-<!--Resumen-->
+<!--more-->
 
-- [500 Lines or Less](#1)
-- [The Performance of Open Source Applications](#2)
-- [The Architecture of Open Source Applications V1](#3)
-- [The Architecture of Open Source Applications V2](#4)
-
-<div id="1"> </div>
+[Code](https://github.com/aosabook/500lines)
 
 ## 500 Lines or Less
-
 
 - [Introduction](http://aosabook.org/en/500L/introduction.html)
 - [Blockcode: A visual programming toolkit](http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html)
@@ -41,10 +35,6 @@ tags: [conocimiento, libro]
 - [A Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
 - [A Simple Web Server](http://aosabook.org/en/500L/a-simple-web-server.html)
 
-ab
-
-<div id="2"> </div>
-
 ## The Performance of Open Source Applications
 
 - [Introduction](http://aosabook.org/en/posa/introduction.html)
@@ -60,8 +50,6 @@ ab
 - [Secrets of Mobile Network Performance](http://aosabook.org/en/posa/secrets-of-mobile-network-performance.html)
 - [Warp](http://aosabook.org/en/posa/warp.html)
 - [Working with Big Data in Bioinformatics](http://aosabook.org/en/posa/working-with-big-data-in-bioinformatics.html)
-
-<div id="3"> </div>
 
 ## The Architecture of Open Source Applications V1
 
@@ -91,8 +79,6 @@ ab
 - [Yocto](http://aosabook.org/en/yocto.html)
 - [ZeroMQ](http://aosabook.org/en/zeromq.html)
 - [Bibliography](http://aosabook.org/en/bib2.html)
-
-<div id="4"> </div>
 
 ## The Architecture of Open Source Applications V2
 
