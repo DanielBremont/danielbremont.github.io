@@ -71,3 +71,5 @@ orden: 1
 - python3 -m http.server 8080
 
 - Ebay do port scanning on my local computer, see [Why is This Website Port Scanning me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)
+
+- Game Theoretic Model
