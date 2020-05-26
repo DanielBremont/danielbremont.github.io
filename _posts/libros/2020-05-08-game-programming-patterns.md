@@ -7,6 +7,8 @@ categories: libros
 
 <!--more-->
 
+[Python Design Patterns](https://python-patterns.guide/)
+
 # Introduction
 [Ir](http://gameprogrammingpatterns.com/introduction.html)
 
