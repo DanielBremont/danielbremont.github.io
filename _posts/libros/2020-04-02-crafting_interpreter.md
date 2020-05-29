@@ -7,6 +7,12 @@ tags: [conocimiento, libro]
 
 <!--Resumen-->
 
+- Repository for the book "Crafting Interpreters"](https://github.com/munificent/craftinginterpreters)
+- Python lox:
+  - https://github.com/marcjourneux/pylox
+  - https://github.com/kinshukk/pyterpreter
+  - https://github.com/nwxnk/plox
+
 > The smarter, faster, easier way to build a successful web application.
 
 - [Welcome](#1)

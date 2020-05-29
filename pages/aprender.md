@@ -10,21 +10,26 @@ orden: 1
 
 <div class="message"> 
 **Focus “learning time” on things that compound:**
- 
+
 - Compounding is a pretty important concept that shows up in compound interest, in Moore’s Law, all over the place. It’s about virtuous cycles. And so in the limited flexible time that I have, I think the rule of thumb is to focus on things that could trigger a virtuous cycle.
 
 - One perfect place to start is becoming a faster typer. Getting faster allows me to write more, to communicate more, to get more done in the same amount of time, because it makes almost everything I do on the computer faster.
 
 - Building lasting relationships is also a compounding activity because it gives you access to more people who can help you get things done more quickly.
 
+- Learning the  fundamentals computer scinece, maths, stats deeply.
+
+- Learning your tools, vs code etc.
+
 - Consuming (books, papers, blogs, courses, whatever) is not inherently a compounding thing. Only if you have some kind of method to reflect, to digest, to incorporate your knowledge into your thoughts.
+
 </div>
 
 <div class="message"> 
 **Para realizar mis tareas:**
 
-- Write your goals on a sheet of paper.     
-- Circle the three most important. 
+- Write your goals on a sheet of paper.
+- Circle the three most important.
 - Avoid doing any work on anything that’s not circled.
 - Consejo: Usar la **técnica del pomodoro** 😉.
 
@@ -32,6 +37,7 @@ orden: 1
 
 {::options parse_block_html="false" /}
 
+- Learning curve
 - D3 Data Visualization (For Interactive Post)
 - How Debuggers Work
 - Virtual environments: virtualenv, bundler.
@@ -63,7 +69,7 @@ orden: 1
 - [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
 - [Programming Models](https://asc.llnl.gov/content/assets/docs/exascale-pmWG.pdf)
 - [Reflective Practice](https://en.wikipedia.org/wiki/Reflective_practice)
-    - [More](https://www.cambridge-community.org.uk/professional-development/gswrp/index.html)
+  - [More](https://www.cambridge-community.org.uk/professional-development/gswrp/index.html)
 
 - asymmetric business model
 - publish/subscribe messaging framework
@@ -73,3 +79,13 @@ orden: 1
 - Ebay do port scanning on my local computer, see [Why is This Website Port Scanning me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)
 
 - Game Theoretic Model
+
+- Instrumentation in Python
+
+- [Ironies of Automation](https://en.wikipedia.org/wiki/Ironies_of_Automation)
+
+- **Computation** is any type of calculation involving arithmetic and non-arithmetic steps that follow a predefined model (an algorithm)
+ 
+- Coroutines
+
+- [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
