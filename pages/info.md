@@ -20,11 +20,10 @@ orden: 9
 
 ## Proyectos
 
-- Hacer un word cloud sobre los temas del blog.
+- unitaro
 - dlogme, analiticas personales, con su interfaz web.
   - Integracion con correos
   - Google Tasks
-- Detector de autores en la escritura
 
 ## Estadísticas
 
