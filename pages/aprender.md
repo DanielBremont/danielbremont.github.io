@@ -85,7 +85,7 @@ orden: 1
 - [Ironies of Automation](https://en.wikipedia.org/wiki/Ironies_of_Automation)
 
 - **Computation** is any type of calculation involving arithmetic and non-arithmetic steps that follow a predefined model (an algorithm)
- 
 - Coroutines
 
 - [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
+- [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
