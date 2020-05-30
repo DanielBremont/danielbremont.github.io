@@ -118,3 +118,5 @@ Design Thinking is just solving problems (and creating new solutions) from the e
 - Excitement feels good. Action is good.
 
 [The Six Levels of Interaction with a System](https://www.charlieharrington.com the-six-levels-of-interaction-with-a-system)
+
+- [Blockchain analysis](https://en.wikipedia.org/wiki/Blockchain_analysis)
