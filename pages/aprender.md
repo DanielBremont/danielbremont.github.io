@@ -89,3 +89,9 @@ orden: 1
 
 - [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 - [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
+
+- - [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
+
+- [11 Reasons Not to Become Famous (or “A Few Lessons Learned Since 2007”)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
+
+- [https://raventools.com/blog/5-personal-writing-metrics-every-content-marketer-track/](https://raventools.com/blog/5-personal-writing-metrics-every-content-marketer-track/)

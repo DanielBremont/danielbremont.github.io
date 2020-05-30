@@ -16,6 +16,7 @@ orden: 6
 
   - [Videos](http://linear.axler.net/LADRvideos.html)
   - [Solutions](https://linearalgebras.com/)
+- [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 - [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
 
@@ -45,6 +46,7 @@ orden: 6
 ## Computer Science
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [A Complete 4-Year Course Plan for an Artificial Intelligence Undergraduate Degree](https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/)
 - [the missing semester of your cs education](https://missing.csail.mit.edu/2020/)
 
 ### Algorithms
