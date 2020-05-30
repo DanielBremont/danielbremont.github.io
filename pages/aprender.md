@@ -97,3 +97,24 @@ orden: 1
 - [https://raventools.com/blog/5-personal-writing-metrics-every-content-marketer-track/](https://raventools.com/blog/5-personal-writing-metrics-every-content-marketer-track/)
 
 - Aprender a usar API (Autenticacion y Autorizacion)
+
+- Abductive reasoning
+
+What is Design Thinking?
+
+*Basically*:
+
+- research,
+- hypothesize,
+- prototype,
+- test,
+- iterate,
+- deliver.
+- It's not new, but here we are with new terminology.
+
+Design Thinking is just solving problems (and creating new solutions) from the end-user's perspective.
+
+- Excitement starts something. Execution completes it.
+- Excitement feels good. Action is good.
+
+[The Six Levels of Interaction with a System](https://www.charlieharrington.com the-six-levels-of-interaction-with-a-system)
