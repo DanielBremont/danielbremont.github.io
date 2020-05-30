@@ -120,3 +120,9 @@ Design Thinking is just solving problems (and creating new solutions) from the e
 [The Six Levels of Interaction with a System](https://www.charlieharrington.com the-six-levels-of-interaction-with-a-system)
 
 - [Blockchain analysis](https://en.wikipedia.org/wiki/Blockchain_analysis)
+
+**OAuth (Access Token) Vs API Key**:
+
+- You need OAuth only when you want to enable a user of your service to allow a third-party client application to access his/her data hosted in your service without revealing his/her credentials (ID & password) to the application.
+
+- What a pair of API key & API secret can do is just authentication of a client application. If it is okay for you to allow an authenticated client application to access a user's data without explicit consent by the user, you don't have to use OAuth.
