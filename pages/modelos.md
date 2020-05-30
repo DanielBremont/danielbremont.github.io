@@ -56,7 +56,7 @@ Want to make sure you see the forest for the trees? Try abstraction laddering to
 
 ## The diamond model
 
-![Diamong Model](/public/images/diamond-model.png "Diamong Model")
+![Diamong Model](/public/images/diamond_model.png "Diamong Model")
 
 Are you preparing long-form content (like presentations or big docs)? The diamond model works great for putting a structure around your main idea.
 
