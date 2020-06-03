@@ -107,7 +107,8 @@ orden: 6
 - [Farnam Street](https://fs.blog/)
 - [Fast AI Forums](https://forums.fast.ai/)
   - [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
-  - [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607) 
+  - [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
+- [Less Wrong](https://www.lesswrong.com/)
 
 ## Personas
 
@@ -118,6 +119,8 @@ orden: 6
 
 - [Erick Bernhardsson](https://erikbern.com/)
 - [Daniel Kirsch](http://danielkirs.ch/)
+
+- [Timothy Gowers](https://gowers.wordpress.com/)
 
 ## Herramientas de Software
 

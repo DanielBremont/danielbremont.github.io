@@ -25,7 +25,7 @@ orden: 1
 
 </div>
 
-<div class="message"> 
+<div class="message">
 **Para realizar mis tareas:**
 
 - Write your goals on a sheet of paper.
@@ -127,5 +127,17 @@ Design Thinking is just solving problems (and creating new solutions) from the e
 
 - What a pair of API key & API secret can do is just authentication of a client application. If it is okay for you to allow an authenticated client application to access a user's data without explicit consent by the user, you don't have to use OAuth.
 
-
 - [A Beginner’s Guide to the Gmail API and Its Documentation](https://medium.com/better-programming/a-beginners-guide-to-the-google-gmail-api-and-its-documentation-c73495deff08)
+
+## Proyect to Learn from
+
+- Coding interview site with video conferencing
+
+  - https://github.com/areebbeigh/codeinterview-frontend
+  - https://github.com/areebbeigh/codeinterview-backend
+  - https://github.com/areebbeigh/codeinterview-sandbox
+
+- Framebuffer
+[Ir](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
+
+- Zettelkasten Method
