@@ -141,3 +141,24 @@ Design Thinking is just solving problems (and creating new solutions) from the e
 [Ir](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 
 - Zettelkasten Method
+
+- Minigrad [Ir](https://github.com/kennysong/minigrad)
+
+- Overview of python dependency management tools
+https://modelpredict.com/python-dependency-management-tools
+
+- Literate programming
+https://en.wikipedia.org/wiki/Literate_programming
+https://github.com/slott56/py-web-tool
+
+- State pattern
+https://en.wikipedia.org/wiki/State_pattern
+
+- Programming as Theory Building
+https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1
+
+- Ultimate Guide to Python Debugging
+https://martinheinz.dev/blog/24
+
+- How Not to Learn Cryptography
+http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/
