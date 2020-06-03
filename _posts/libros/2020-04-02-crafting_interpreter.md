@@ -13,6 +13,8 @@ tags: [conocimiento, libro]
   - https://github.com/kinshukk/pyterpreter
   - https://github.com/nwxnk/plox
 
+- [Small JVM](https://zserge.com/posts/jvm/)
+
 > The smarter, faster, easier way to build a successful web application.
 
 - [Welcome](#1)
