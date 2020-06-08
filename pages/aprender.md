@@ -67,6 +67,8 @@ orden: 1
 - real time web sites
 
 - [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
+- [Probability distribution fitting](https://en.wikipedia.org/wiki/Probability_distribution_fitting)
+
 - [Programming Models](https://asc.llnl.gov/content/assets/docs/exascale-pmWG.pdf)
 - [Reflective Practice](https://en.wikipedia.org/wiki/Reflective_practice)
   - [More](https://www.cambridge-community.org.uk/professional-development/gswrp/index.html)
@@ -119,7 +121,7 @@ Design Thinking is just solving problems (and creating new solutions) from the e
 
 [The Six Levels of Interaction with a System](https://www.charlieharrington.com the-six-levels-of-interaction-with-a-system)
 
-- [Blockchain analysis](https://en.wikipedia.org/wiki/Blockchain_analysis)
+[Blockchain analysis](https://en.wikipedia.org/wiki/Blockchain_analysis)
 
 **OAuth (Access Token) Vs API Key**:
 
