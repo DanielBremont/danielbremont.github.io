@@ -162,3 +162,5 @@ https://martinheinz.dev/blog/24
 
 - How Not to Learn Cryptography
 http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/
+
+- [State Machines](https://blog.the-pans.com/state-machine/)

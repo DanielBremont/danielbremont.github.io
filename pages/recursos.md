@@ -109,6 +109,7 @@ orden: 6
   - [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
   - [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
 - [Less Wrong](https://www.lesswrong.com/)
+- [Edge](https://www.edge.org/)
 
 ## Personas
 
@@ -116,6 +117,7 @@ orden: 6
 - [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
 - [François Chollet](https://fchollet.com/)
 - [Michael Nielsen](http://michaelnielsen.org/)
+- [Tristan Hume](https://thume.ca/)
 
 - [Erick Bernhardsson](https://erikbern.com/)
 - [Daniel Kirsch](http://danielkirs.ch/)
@@ -167,3 +169,5 @@ orden: 6
 - [Art of Problem Solving](https://artofproblemsolving.com/)
 
 - [dev.io](https://dev.to/)
+
+- [Mathematical knowhow](http://www.tricki.org/tricki/map)

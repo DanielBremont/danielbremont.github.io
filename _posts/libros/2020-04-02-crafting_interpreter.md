@@ -15,6 +15,8 @@ tags: [conocimiento, libro]
 
 - [Small JVM](https://zserge.com/posts/jvm/)
 
+- [A sunny little virtual machine](https://github.com/rsms/sol)
+
 > The smarter, faster, easier way to build a successful web application.
 
 - [Welcome](#1)

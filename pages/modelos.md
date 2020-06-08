@@ -6,8 +6,7 @@ orden: 3
 
 <!--more-->
 
-
-## Modelar el valor que aprender *x* o hacer *y* me puede traer.
+## Modelar el valor que aprender *x* o hacer *y* me puede traer
 
 - Antes de agregar conocimiento al blog verificar como encaja con los otros conocimientos, con las cosas practicas de mi vida, "si compone", si puedo explorarlo, replicarlo.
 - Me permite mejorar las cosas que hago.
@@ -20,9 +19,22 @@ orden: 3
 - Can i learn or do x?
 - Can i gain from this even if i fail?
 
-##  Modelo para elegir los problemas del dia?
+## Modelo para elegir los problemas del dia
 
 - Basado en los cursos más importantes que tengo que hacer.
+
+## Recursos
+
+-[50 Ideas that changed my life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
+
+-[Mentals Models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+## Frases
+
+- "Know how to learn. Then, I want to learn." - *Katherine Johnson*
+
+- "Any intelligent fool can make things bigger and more complex. It takes a touch of genius – and a lot of courage – to move in the opposite direction." – *Ernst Schumacher*
+
 
 ## First principles
 
