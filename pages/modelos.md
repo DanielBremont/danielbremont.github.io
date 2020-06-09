@@ -35,7 +35,6 @@ orden: 3
 
 - "Any intelligent fool can make things bigger and more complex. It takes a touch of genius – and a lot of courage – to move in the opposite direction." – *Ernst Schumacher*
 
-
 ## First principles
 
 [More](https://fs.blog/2018/04/first-principles/)
@@ -79,3 +78,9 @@ Are you preparing long-form content (like presentations or big docs)? The diamon
 5. Summaries: Recap your subtopics
 6. Conclusion: Paint an ideal vision of the future
 7. Call to action: Invite your audience to act or make a decision.
+
+## Otros
+
+- Usar metáforas y analogías a la hora de resolver problemas matemáticos.
+- Abductive reasoning
+- Verbalismo: Propensión a fundar el razonamiento más en las palabras que en los conceptos.
