@@ -37,16 +37,6 @@ orden: 1
 
 {::options parse_block_html="false" /}
 
-## Proyect to Learn from
-
-- Coding interview site with video conferencing
-
-  - https://github.com/areebbeigh/codeinterview-frontend
-  - https://github.com/areebbeigh/codeinterview-backend
-  - https://github.com/areebbeigh/codeinterview-sandbox
-
-- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
-
 ## Topics and Ideas to Explore
 
 - Profiling
@@ -147,3 +137,10 @@ orden: 1
 - [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 
 - [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
+
+- Compounding Knowledge
+
+  - [Compounding Knowledge in Programming](https://www.agundy.com/2019/02/11/compounding-knowledge.html)
+  - [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+  - [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
+  

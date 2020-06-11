@@ -124,6 +124,9 @@ orden: 6
 
 - [Timothy Gowers](https://gowers.wordpress.com/)
 
+- [Paul Graham](http://www.paulgraham.com/)
+- [Sam  Altman](https://blog.samaltman.com/)
+
 ## Herramientas de Software
 
 - [Opensource.builders](https://opensource.builders/)
@@ -171,3 +174,16 @@ orden: 6
 - [dev.io](https://dev.to/)
 
 - [Mathematical knowhow](http://www.tricki.org/tricki/map)
+
+## Proyect to Learn from
+
+- Coding interview site with video conferencing
+
+  - https://github.com/areebbeigh/codeinterview-frontend
+  - https://github.com/areebbeigh/codeinterview-backend
+  - https://github.com/areebbeigh/codeinterview-sandbox
+
+- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+
+- [Ideas for Software Engineering Team Projects](https://www.ece.rutgers.edu/~marsic/books/SE/projects/)
+- [40 Side Project Ideas for Software Engineer](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
