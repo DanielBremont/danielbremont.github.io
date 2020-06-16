@@ -4,15 +4,22 @@ title: Daniel log
 categories: [proyectos]
 ---
 
-- daniel log
-  - Informacion que consulto
-  
-  - Integrate the blog with streaming of information.
+Prototype on [Ir - LocalHost Jupyter](http://localhost:8888/tree/Daniel%20Log)
 
+- daniel log
+  - Recolectar informacion,
+  - almazenarla,
+  - analizarla,
+  - integrar con daniel log
+  
 ## Info sources
 
-- [Get Info for reddit](https://www.reddit.com/r/MachineLearning.json)
+- Edge
 
-- [Edge rss](https://www.edge.org/feed)
+- Hacker News
 
-- [Google Trends API](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
+- Reddit
+
+- YouTube
+
+- Twitter

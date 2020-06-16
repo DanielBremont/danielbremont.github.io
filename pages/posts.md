@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-orden: 5
+orden: 6
 ---
 
 {% assign sortedCategories = site.categories | sort %}
