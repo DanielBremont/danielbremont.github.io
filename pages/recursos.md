@@ -36,6 +36,10 @@ orden: 7
 
 - [From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling](http://www.lithoguru.com/scientist/statistics/)
 
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+
+- [Machine Learning Toolbox](https://amitness.com/toolbox/)
+
 ## Science Fundamentals
 
 - **Biology**: [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/)
