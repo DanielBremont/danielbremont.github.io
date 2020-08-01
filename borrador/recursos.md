@@ -133,6 +133,17 @@ orden: 7
 
 - [On Innovation](http://matt-clancy.com/)
 
+- [Laboratory of Agent-Based Social Simulation](http://labss.istc.cnr.it/)
+- [Computational Social Science Society of the Americas](https://computationalsocialscience.org/)
+- [European Social Simulation Association (ESSA)](http://www.essa.eu.org/)
+
+- [The Harvard Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+- [The Observatory of Economic Complexity (OEC)](https://oec.world/en/)
+- [New Things Under the Sun](https://mattsclancy.substack.com/)
+- [Our World in Data](https://ourworldindata.org/)
+
+- [QuantEcon - Open source code for economic modeling](https://quantecon.org/)
+
 ## Personas
 
 - [Peter Norvig](http://norvig.com/)
@@ -158,6 +169,16 @@ orden: 7
 - [Tuomas Sandholm](http://www.cs.cmu.edu/~sandholm/)
 
 - [Naval Ravikant](https://nav.al/)
+
+- [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann)
+- [Cesar Hidalgo](https://chidalgo.com/)
+- [Ha-Joon Chang](http://hajoonchang.net/)
+- [Erik S. Reinert](https://en.wikipedia.org/wiki/Erik_S._Reinert)
+  - [Papers](https://econpapers.repec.org/RAS/pre309.htm){:target="_blank"}
+
+- [Paul Krugman](https://www.krugmantoday.com/)
+- [John Stachurski](https://johnstachurski.net/)
+- [Thomas J. Sargent](http://www.tomsargent.com/)
 
 ## Herramientas de Software
 

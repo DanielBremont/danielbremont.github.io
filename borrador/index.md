@@ -79,6 +79,15 @@ FastAPI for Flask Users
 https://amitness.com/2020/06/fastapi-vs-flask/   
 
 
+- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+- [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
+- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
+- [Network Analysis and Modeling CSCI 5352](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
+- [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/)
+- [Teoria de los Juegos](http://www.game-theory-class.org/)
+- [CS364A: Algorithmic Game Theory (Fall 2013)](http://timroughgarden.org/f13/f13.html)
+- [Introduction to Computational Economics (CPS 196.2), Spring 2007](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
+
 HOW to DESIGN, BUILD and TEST SMALL LIQUID-FUEL ROCKET ENGINES
 [Ir](http://www.risacher.org/rocket/)
 
@@ -240,41 +249,127 @@ https://github.com/stefan-jansen/machine-learning-for-trading
 
 <hr />
 
-<p><strong>Tricks</strong></p>
 
-<ul>
-<li>to be able to quickly adjust the video speed I <em>strongly</em> recommend <a href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en">Video Speed Controller</a></li>
-</ul>
+- [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
 
-    </article>
+- Auction theory:
+  - [Wikipedia](https://en.wikipedia.org/wiki/Auction_theory)
+  - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
 
-    <hr>
+- Behavioral economics [Ir](https://en.wikipedia.org/wiki/Behavioral_economics)
+- Modelo economico [Ir](https://en.wikipedia.org/wiki/Economic_model)
 
-<p>You can send your comments to me via</p>
+- Diminishing returns
 
-<ul class="social-links">
-        <li>
-            <a class="social-icon" target="_blank" href="mailto:alexey@guzey.com" target="_blank">
-                <div data-icon="ei-envelope"></div>
-            </a>
-        </li>
-        <li>
-            <a class="social-icon" target="_blank" href="https://twitter.com/alexeyguzey">
-                <div data-icon="ei-sc-twitter"></div>
-            </a>
-        </li>
-        <li>
-            <a class="social-icon" target="_blank" href="https://facebook.com/alexeyguzey">
-                <div data-icon="ei-sc-facebook"></div>
-            </a>
-        </li>
-        <li>
-            <a class="social-icon" target="_blank" href="https://vk.com/alexeyguzey">
-                <div data-icon="ei-sc-vk"></div>
-            </a>
-        </li>
-    </ul>
-  </div>
+- Real Wages
+
+## Topics and Ideas to Explore
+
+- Profiling
+- Instrumentation in Python
+- Python Configuration Right [Ir](https://whalesalad.com/blog/doing-python-configuration-right)
+- Importacion en python [Ir](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
+- [Guide to Concurrency in Python with Asyncio](https://www.integralist.co.uk/posts/python-asyncio/)
+- [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)
+- [Overview of python dependency management tools](https://modelpredict.com/python-dependency-management-tools)
+- python3 -m http.server 8080
+- real time web sites
+
+- Docker
+
+- Web analytics basics
+- User session recording
+- A/B testing
+- website credibility
+
+- Graceful shutdown of applications
+- Creating stateless applications
+- Execution model- Shebang (Unix)
+  
+- Idea keystrokes dynamics
+- [11 Reasons Not to Become Famous (or “A Few Lessons Learned Since 2007”)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
+
+- [5 Personal Writing Metrics Every Content Marketer Should Track](https://raventools.com/blog/5-personal-writing-metrics-every-content-marketer-track/)
+
+- Automated readability index
+
+- Not even wrong [Ir](https://en.wikipedia.org/wiki/Not_even_wrong)
+- Question answering [Ir](https://en.wikipedia.org/wiki/Question_answering)
+- Comparing apples to oranges ej [Flu vs Covid-19](https://blogs.scientificamerican.com/observationscomparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/)
+- Complexity has to live somewhere Read. [Ir](https://ferd.ca/complexity-has-to-live-somewhere.html)
+- .9999 = 1 [Ir](https://en.wikipedia.org/wiki/0.999...)
+- Sum of n, n², or n³ [Ir](https://brilliant.org/wiki/sum-of-n-n2-or-n3/)
+
+- [The probabilistic method](https://en.wikipedia.org/wiki/Probabilistic_method)
+- [Probability distribution fitting](https://en.wikipedia.org/wiki/Probability_distribution_fitting)
+
+- [Programming Models](https://asc.llnl.gov/content/assets/docs/exascale-pmWG.pdf)
+- [Reflective Practice](https://en.wikipedia.org/wiki/Reflective_practice)
+  - [More](https://www.cambridge-community.org.uk/professional-development/gswrp/index.html)
+
+- publish/subscribe messaging framework
+
+- [Ironies of Automation](https://en.wikipedia.org/wiki/Ironies_of_Automation)
+
+- **Computation** is any type of calculation involving arithmetic and non-arithmetic steps that follow a predefined model (an algorithm)
+- Coroutines
+
+## Design Thinking
+
+- What is Design Thinking?
+
+  - research,
+  - hypothesize,
+  - prototype,
+  - test,
+  - iterate,
+  - deliver,
+  - It's not new, but here we are with new terminology.
+
+- Design Thinking is just solving problems (and creating new solutions) from the end-user's perspective.
+
+  - Excitement starts something. Execution completes it.
+  - Excitement feels good. Action is good.
+
+## API
+
+- **OAuth (Access Token) Vs API Key**:
+
+  - You need OAuth only when you want to enable a user of your service to allow a third-party client application to access his/her data hosted in your service without revealing his/her credentials (ID & password) to the application.
+
+  - What a pair of API key & API secret can do is just authentication of a client application. If it is okay for you to allow an authenticated client application to access a user's data without explicit consent by the user, you don't have to use OAuth.
+
+- Aprender a usar API (Autenticacion y Autorizacion)
+- [A Beginner’s Guide to the Gmail API and Its Documentation](https://medium.com/better-programming/a-beginners-guide-to-the-google-gmail-api-and-its-documentation-c73495deff08)
+
+## Others
+
+- Minigrad [Ir](https://github.com/kennysong/minigrad)
+
+- Literate programming
+  - [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming)
+  - [pyWebTool supports Literate Programming](https://github.com/slott56/py-web-tool)
+
+- [State pattern](https://en.wikipedia.org/wiki/State_pattern)
+
+- [Programming as Theory Building](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
+
+- [How Not to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
+
+- [State Machines](https://blog.the-pans.com/state-machine/)
+
+- [The Six Levels of Interaction with a System](https://www.charlieharrington.com the-six-levels-of-interaction-with-a-system)
+
+- [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
+
+- [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
+
+- Compounding Knowledge
+
+  - [Compounding Knowledge in Programming](https://www.agundy.com/2019/02/11/compounding-knowledge.html)
+  - [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+  - [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
+  
 
 - [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d)
 - [Are Ideas Getting Harder to Find?](https://web.stanford.edu/~chadj/IdeaPF.pdf)
@@ -286,6 +381,69 @@ https://github.com/stefan-jansen/machine-learning-for-trading
 
 - [Ideas for Software Engineering Team Projects](https://www.ece.rutgers.edu/~marsic/books/SE/projects/)
 - [40 Side Project Ideas for Software Engineer](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+
+
+[Ir](https://www.edx.org/es/micromasters/mitx-statistics-and-data-science)
+
+<div class="message">
+    Recursos para seleccionar los problemas de semana,
+    y asi prepararme para el Micromaster.
+</div>
+
+## Learn the Math
+
+What does it mean to multiply two matrices together? What is a determinant? What is a matrix decomposition? What is a matrix? What is a vector?
+
+You might have noticed but data is usually stored as arrays in a computer and matrices/vectors have a lot of tricks you can do.
+
+Basic statistics. How does something like PCA work? What is an eigenvector?
+
+Then comes calculus. How does a neural network learn? How does optimization work?
+
+I am not talking about the big picture. I am talking about grabbing a pen and paper and going through it step-by-step and computing things by hand.
+
+And most importantly, how do you learn and understand these things without a step-by-step tutorial where they hold your hand? Because there usually isn't a step-by-step tutorial.
+
+Those intimidating looking equations don't contain anything you can't learn by taking linear algebra 1,2, calc 1,2,3, vector calc and perhaps differential equations. That's a minor in math or so, pretty much what every physicist, engineer etc. goes through.
+
+That's it. The rest is applications of that fundamental knowledge. If you "learn the math" then you can pick up a book or a research paper and work through it yourself.
+
+Just like for a kindergardener 56*45 looks like super advanced math they couldn't possibly comprehend and a keras tutorial looks like alien language to a college freshman that hasn't programmed before, fundamental math looks like "intimidating equations" while in reality they are the equivalent of some pseudocode.
+
+Learn the math and all of these problems you're having are going to go away. Just like learning programming isn't about watching a lecture, learning math isn't about watching a lecture or reading a book either. Go get paper and a pen (or preferably an ipad and pencil, best thing ever) and go do some university courses. Do the 20 weekly exercises they assign you that take 10-12 hours to complete. At the end (~5 courses so I guess 1 year of a few hours a week) you're going to read the math in papers like you read the pseudocode in the papers.
+
+Doing machine learning without having the fundamental math background is like doing machine learning without knowing how to code. Despite what the "participate in kaggle with no code!" advertisement insists upon my iphone whenever I open reddit, trying to do ML without knowing how to code is a bad idea.
+
+## Fuentes Primarias
+
+- [Single Variable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    - [MIT Differential Calculus](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/course/)
+    - [MIT Integral Calculus](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/course/)
+    - [Brilliant Calculus](https://brilliant.org/calculus/)
+    - [AOPS Calculus](https://artofproblemsolving.com/ebooks/calculus-ebook/c0toc)
+    - [Khan Academy Calculus](https://www.khanacademy.org/math/ap-calculus-ab)
+    
+- [Multivariable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+    - [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
+- [Mathematics for Machine Learning](https://blog.dbremont.dev/libros/2020/04/02/mathematics-for-machine-learning/)
+    - [Mi Resumen](/libros/2020/04/02/mathematics-for-machine-learning/)
+    - [Web Site](https://mml-book.github.io/)
+    - [Jupyter notebooks for Chapter 2-7](https://github.com/vbartle/MML-Companion)
+
+## Otras Secundarias
+
+- The art of problem solving volume 1: the basics : AOPSV1
+
+- The art of problem solving volume 2: the basics : AOPSV2
+
+- [The Putnam Archive](https://kskedlaya.org/putnam-archive/)
+
+- [IMO problems](https://prase.cz/kalva/imo.html)
+
+- [Contest Collections](https://artofproblemsolving.com/community/c13_contest_collections)
+
+- [IMOmath: The IMO Compendium](https://www.imomath.com/index.php)
 
 ## Posts
 
