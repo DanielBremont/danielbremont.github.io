@@ -1,0 +1,166 @@
+/* Slide */
+.title {
+    color: #FFFFFF;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    font-family: Roboto, Helvetica, Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 24;
+}
+
+.center {
+    text-align: center;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-item {
+    /* padding: 1%; */
+    margin: 1%;
+    width: 48%;
+
+
+    /***/
+
+    border: 1px solid #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 14px 2px #d8d3d3;
+    margin: 0;
+    /* padding: 25px; */
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+
+.wrap {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    /***/
+    flex-flow: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+.slide {
+    display: none
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.dots {
+    text-align: center;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+    background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+.frontbg {
+    background-color: #212121;
+    /* background-color: #202020; */
+
+    border-radius: 7px;
+    color: #717171;
+
+    /***/
+
+    font-weight: 600;
+    color: white;
+    padding-bottom: 0px;
+    text-align: justify;
+    text-align: center;
+    margin-bottom: 1px;
+    height: 100px;
+
+}
+
+.backbg {
+    /* background-color: #03A9F4; */
+    padding-bottom: 15px;
+    /* padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0px 0px 10px 10px; */
+    font-size: 20px;
+
+
+    /**/
+    /* background-color: #607D8B; */
+    color: #717171;
+    padding: 14px;
+    text-align: justify;
+    margin-bottom: 15px;
+
+    font-family: 'PT Sans Caption', 'Comic Neue', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    height: 200px;
+}
+
+.swal2-header{
+    font-family: Helvetica;
+}
+
+.swal2-content{
+    font-family: 'PT Sans Caption', 'Comic Neue', Roboto, Helvetica, Arial, sans-serif;
+    
+}
+
+.swal2-html-container{
+    text-align: justify;
+}
+
+.swal2-popup{
+    width: 65em !important;
+}
+
+.img-center{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 65%;
+      
+}

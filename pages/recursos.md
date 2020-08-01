@@ -113,7 +113,25 @@ orden: 7
   - [Go-Seq James Brigss Blogs](https://jimypbr.github.io/)
   - [Lex Discourse Channel](https://discord.com/channels/695538707016712234/698119317266497607)
 - [Less Wrong](https://www.lesswrong.com/)
+  - [Scott Alexander in (Less Wrong)](https://www.lesswrong.com/users/yvain)
+
 - [Edge](https://www.edge.org/)
+
+- [Sebastian Ruder - DeepMind](https://ruder.io/)
+- [Gwern Branwen](https://www.gwern.net/)
+- [Alexey Guzey](https://guzey.com/)
+
+- [ROBERT HEATON Software Engineer / One-track lover / Down a two-way lane]
+  - [Ir](https://robertheaton.com/)
+  - [Historico](https://robertheaton.com/archive/)
+
+- [Masters of Scale with Reid Hoffman](https://mastersofscale.com/)
+
+- [Math3ma](https://www.math3ma.com/)
+
+- [The Thesis Review Podcast](https://cs.nyu.edu/~welleck/podcast.html)
+
+- [On Innovation](http://matt-clancy.com/)
 
 ## Personas
 
@@ -129,7 +147,17 @@ orden: 7
 - [Timothy Gowers](https://gowers.wordpress.com/)
 
 - [Paul Graham](http://www.paulgraham.com/)
+  - [Essays](https://www.notion.so/Paul-Graham-Essay-Notes-c7e4b66321434ecfac25d475607f4f83)
 - [Sam  Altman](https://blog.samaltman.com/)
+- [Patrick Collison](https://patrickcollison.com/)
+  - [Progress](https://patrickcollison.com/progress)
+  - [Growth](https://patrickcollison.com/growth)
+  - [Fast](https://patrickcollison.com/fast)
+
+- [Tim Roughgarden](http://timroughgarden.org/)
+- [Tuomas Sandholm](http://www.cs.cmu.edu/~sandholm/)
+
+- [Naval Ravikant](https://nav.al/)
 
 ## Herramientas de Software
 
@@ -152,6 +180,8 @@ orden: 7
 - [Open-source illustrations](https://undraw.co/)
 - [MathJax](https://docs.mathjax.org/)
 - [Kramdown](https://kramdown.gettalong.org/quickref.html)
+
+- [Web Editor](https://editorjs.io/)
 
 ## Others
 
@@ -179,15 +209,6 @@ orden: 7
 
 - [Mathematical knowhow](http://www.tricki.org/tricki/map)
 
-## Proyect to Learn from
+- [freeCodeCamp.org](https://www.freecodecamp.org/)
 
-- Coding interview site with video conferencing
-
-  - https://github.com/areebbeigh/codeinterview-frontend
-  - https://github.com/areebbeigh/codeinterview-backend
-  - https://github.com/areebbeigh/codeinterview-sandbox
-
-- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
-
-- [Ideas for Software Engineering Team Projects](https://www.ece.rutgers.edu/~marsic/books/SE/projects/)
-- [40 Side Project Ideas for Software Engineer](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+- [UI Avatars](https://ui-avatars.com/)

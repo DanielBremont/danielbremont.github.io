@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Explorar Idea Aleatoria
-orden: 10
+title: Mas
 ---
 
 <div class="message">
@@ -11,7 +10,286 @@ orden: 10
 
 > What one fool can do, another can. <br/> *Ancient Simian Proverb*
 
-## Maths & Data & ML
+## Recursos
+
+Procesamiento de Lenguajes Naturales
+https://www.coursera.org/specializations/natural-language-processing 
+
+The Machine Learning Summer School
+ http://mlss.tuebingen.mpg.de/2020/schedule.html  
+
+NLP Roadmap
+https://github.com/graykode/nlp-roadmap#probability--statistics 
+
+List of unusual units of measurement
+https://en.wikipedia.org/wiki/List_of_unusual_units_of_measurement 
+
+- Coding interview site with video conferencing
+
+  - https://github.com/areebbeigh/codeinterview-frontend
+  - https://github.com/areebbeigh/codeinterview-backend
+  - https://github.com/areebbeigh/codeinterview-sandbox
+
+A tool for thinking in systems
+https://ncase.me/loopy/v1.1/
+
+New Enterprises
+https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/
+
+based on the publicly available data
+https://github.com/Derek-Jones/ESEUR-code-data
+
+http://incompleteideas.net/book/the-book-2nd.html
+
+Code and data used to create the examples in "Evidence-based Software Engineering 
+
+fastbook:
+https://github.com/fastai/fastbook
+
+Otto makes machine learning an intuitive, natural language experience
+https://ottoml.online/ 
+
+CMU LTI Low Resource NLP Bootcamp 2020
+https://github.com/neubig/lowresource-nlp-bootcamp-2020 
+
+Carla (Open Source Simulator for Self Driving Cars):
+https://carla.org/ 
+
+Robotics
+https://www.edx.org/es/course/robotics-2 
+http://underactuated.csail.mit.edu/Spring2020/index.html
+
+Parallel Distributed Processing Books and Work 
+James L. (Jay) McClelland
+https://stanford.edu/~jlmcc/
+
+Awesome MLOps
+https://github.com/visenger/awesome-mlops
+
+Otto makes machine learning an intuitive, natural language experience
+https://ottoml.online/
+
+Code Read:
+https://github.com/rowsncolumns/grid
+
+Wren Concurrent Programming Language (Simple)
+https://wren.io/   
+
+FastAPI for Flask Users
+https://amitness.com/2020/06/fastapi-vs-flask/   
+
+
+HOW to DESIGN, BUILD and TEST SMALL LIQUID-FUEL ROCKET ENGINES
+[Ir](http://www.risacher.org/rocket/)
+
+
+Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
+https://blakemasters.com/peter-thiels-cs183-startup
+
+Curriculum Startup School
+https://www.startupschool.org/curriculum
+
+Introduction to Modeling and Simulation
+https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/
+
+Notebooks, resources, and references accompanying the book Machine Learning for Algorithmic Trading
+https://github.com/stefan-jansen/machine-learning-for-trading
+
+
+ <div class="main" role="main">
+      
+      
+      
+    <article class="article">
+      <h1 class="article-title">Online courses and textbooks I recommend</h1>
+      
+              <span class="post-date">
+          created: <i><time>2017-11-25</time>;</i> modified: <i><time>2020-07-11</time></i>
+
+        </span>
+        
+      
+<aside class="toc">
+    <b style="margin-left: 8px;">Table of Contents</b>
+  <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#biology">Biology</a></li>
+<li><a href="#cs">CS</a></li>
+<li><a href="#math">Math</a>
+<ul>
+<li><a href="#calculus">Calculus</a></li>
+<li><a href="#linear-algebra">Linear algebra</a></li>
+<li><a href="#topology">Topology</a></li>
+</ul></li>
+<li><a href="#history">History</a></li>
+<li><a href="#economics">Economics</a>
+<ul>
+<li><a href="#econometrics">Econometrics</a></li>
+</ul></li>
+<li><a href="#probability-theory-and-statistics">Probability Theory and Statistics</a></li>
+</ul></li>
+</ul>
+</nav>
+</aside>
+
+      
+<aside class="notable">
+  <b style="margin-left: 8px;">5 random top posts</b>
+  
+
+    
+    
+    <br><span style="color: #ECCBD9;">&gt; </span><a href="/personal/research-ideas/">Research Ideas</a>
+    <br><span style="color: #ECCBD9;">&gt; </span><a href="/personal/how-to-use-your-wife/">How to use your wife/husband/gf/bf correctly</a>
+    <br><span style="color: #ECCBD9;">&gt; </span><a href="/links/">Links</a>
+    <br><span style="color: #ECCBD9;">&gt; </span><a href="/why-is-there-only-one-elon-musk/">Why is there only one Elon Musk? Why is there so much low-hanging fruit?</a>
+    <br><span style="color: #ECCBD9;">&gt; </span><a href="/favorite/slate-star-codex/">Most Important Slate Star Codex Posts</a>
+</aside>
+      
+
+<h2 id="biology">Biology</h2>
+
+<ul>
+<li>MITx <a href="https://www.edx.org/course/introduction-to-biology-the-secret-of-life-2">Introduction to Biology</a></li>
+<li>MITx <em>Molecular Biology</em>. <a href="https://www.edx.org/course/molecular-biology-part-1-dna-replication-and-repair">Part 1</a>. <a href="https://www.edx.org/course/molecular-biology-part-2-transcription-and-transposition">Part 2</a>. <a href="https://www.edx.org/course/molecular-biology-part-3-rna-processing-and-translation">Part 3</a>.</li>
+<li>MIT OCW <a href="https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/">Systems Biology</a></li>
+</ul>
+
+<h2 id="cs">CS</h2>
+
+<ul>
+<li>Stanford University <em>Algorithms</em>. <a href="https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about">Part 1</a>. <a href="https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about">Part 2</a>.</li>
+</ul>
+
+<h2 id="math">Math</h2>
+
+<h3 id="calculus">Calculus</h3>
+
+<p><em>Calculus</em> by Michael Spivak. Note: you absolutely need somebody to guide you/help with the problems from the book. The Correct™ way to self-study books like this is to email a professor at a local college and ask them if they could help you with stuff you don&rsquo;t understand and problems (hint: they will be happy to help).</p>
+
+<h3 id="linear-algebra">Linear algebra</h3>
+
+<ul>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/">MIT OCW Linear Algebra</a> by Gilbert Strang as main course and things below as support
+
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essense of linear algebra</a>* by 3Blue1Brown</li>
+<li><a href="https://www.youtube.com/c/MathTheBeautiful/playlists">MathTheBeautiful</a> on YouTube</li>
+</ul></li>
+</ul>
+
+<h3 id="topology">Topology</h3>
+
+<ul>
+<li><em><a href="http://www.topologywithouttears.net/">Topology Without Tears</a></em> by Sidney A. Morris.</li>
+</ul>
+
+<h2 id="history">History</h2>
+
+<ul>
+<li>University of Virginia <em>The Modern World (1760-)</em>. <a href="https://www.coursera.org/learn/modern-world">Part 1</a>. <a href="https://www.coursera.org/learn/modern-world-2">Part 2</a>.</li>
+<li>Emory University <a href="https://www.coursera.org/learn/bible-history">The Bible&rsquo;s Prehistory, Purpose, and Political Future</a></li>
+</ul>
+
+<h2 id="economics">Economics</h2>
+
+<ul>
+<li>Marginal Revolution University <a href="https://www.mruniversity.com/courses/principles-economics-microeconomics">Principles of Micro</a></li>
+<li>Marginal Revolution University <a href="https://www.mruniversity.com/courses/principles-economics-macroeconomics">Principles of Macro</a></li>
+<li>Columbia University <a href="https://www.coursera.org/learn/money-banking">Economics of Money and Banking</a></li>
+<li>University of Michigan <a href="https://www.coursera.org/learn/model-thinking">Model Thinking</a></li>
+</ul>
+
+<h3 id="econometrics">Econometrics</h3>
+
+<ul>
+<li><em>Introduction to Econometrics</em> by Christopher Dougherty. Note: lmk if you need solutions for it.</li>
+</ul>
+
+<h2 id="probability-theory-and-statistics">Probability Theory and Statistics</h2>
+
+<ul>
+<li>Lectures from MIT OCW <a href="https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/">Introduction to Probability</a> (lectures are easiest to watch from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">the official YouTube playlist</a>) + Problem sets and Quizzes from MIT OCW <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/">Probabilistic Systems Analysis and Applied Probability</a></li>
+</ul>
+
+<h2 class="nocount">How to study with online courses?</h2>
+
+<p>Online courses are not a panacea. When you take a university course, you have:</p>
+
+<ul>
+<li>2-3 hours a week of lectures</li>
+<li>1-2 hours a week of seminars</li>
+<li>1-2 hours a week of office hours</li>
+<li>exercises</li>
+<li>homework</li>
+</ul>
+
+<p>Note that online courses don&rsquo;t provide seminars and office hours, which are frequently even more important than the lectures themselves! When I try to self-study anything I get stuck on material <em>all the time</em> and when I took Calculus, Linear Algebra, Statistics, etc. in the university I visited office hours almost religiously.</p>
+
+<p>What is the alternative to office hours and seminars? It seems that the only viable alternatives are</p>
+
+<ul>
+<li>a private tutor</li>
+<li>a friendly professor at a local university</li>
+<li>a friend whom it would not be too awkward to pester with questions</li>
+</ul>
+
+<p>None of these are perfect.</p>
+
+<hr />
+
+<p><strong>Tricks</strong></p>
+
+<ul>
+<li>to be able to quickly adjust the video speed I <em>strongly</em> recommend <a href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en">Video Speed Controller</a></li>
+</ul>
+
+    </article>
+
+    <hr>
+
+<p>You can send your comments to me via</p>
+
+<ul class="social-links">
+        <li>
+            <a class="social-icon" target="_blank" href="mailto:alexey@guzey.com" target="_blank">
+                <div data-icon="ei-envelope"></div>
+            </a>
+        </li>
+        <li>
+            <a class="social-icon" target="_blank" href="https://twitter.com/alexeyguzey">
+                <div data-icon="ei-sc-twitter"></div>
+            </a>
+        </li>
+        <li>
+            <a class="social-icon" target="_blank" href="https://facebook.com/alexeyguzey">
+                <div data-icon="ei-sc-facebook"></div>
+            </a>
+        </li>
+        <li>
+            <a class="social-icon" target="_blank" href="https://vk.com/alexeyguzey">
+                <div data-icon="ei-sc-vk"></div>
+            </a>
+        </li>
+    </ul>
+  </div>
+
+- [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d)
+- [Are Ideas Getting Harder to Find?](https://web.stanford.edu/~chadj/IdeaPF.pdf)
+- [INCENTIVES AND CREATIVITY: EVIDENCE FROM THE ACADEMIC LIFE SCIENCES](https://www.nber.org/papers/w15466.pdf)
+- [STAGNATION AND SCIENTIFIC INCENTIVES](https://www.nber.org/papers/w26752.pdf)
+- [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
+
+- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+
+- [Ideas for Software Engineering Team Projects](https://www.ece.rutgers.edu/~marsic/books/SE/projects/)
+- [40 Side Project Ideas for Software Engineer](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+
+## Posts
+
+### Maths & Data & ML
 
 - [All the Windows 10 keyboard shortcuts you need to know](https://www.cnet.com/how-to/all-the-windows-10-keyboard-shortcuts-you-need-to-know/)
 
@@ -208,7 +486,7 @@ orden: 10
 
 - [Nassim Taleb Reading List](https://www.thewaystowealth.com/nassim-taleb-reading-list/)
 
-## Science
+### Science
 
 - [Life Sciences Startups](https://axial.substack.com/archive?utm_source=menu-dropdown/rss)
 
@@ -228,7 +506,7 @@ orden: 10
 
 - [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 
-## Software Engineering & CS
+### Software Engineering & CS
 
 [Shell productivity tips and tricks](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html)
 
@@ -386,7 +664,7 @@ orden: 10
 
 - [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
-## Financias y Negocios
+### Financias y Negocios
 
 - [Machine Learning Trading (Quant Finance) Guide](https://startupanalytics.co.in/starter-kit-ml-in-quant-finance/)
 
@@ -431,7 +709,7 @@ orden: 10
 
 [Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money)
 
-## Otros
+### Otros
 
 - [Research Ideas](https://guzey.com/personal/research-ideas/)
 
