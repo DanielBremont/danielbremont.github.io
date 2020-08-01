@@ -1,1 +1,0 @@
-[Ir](https://www.cnet.com/how-to/all-the-windows-10-keyboard-shortcuts-you-need-to-know/)

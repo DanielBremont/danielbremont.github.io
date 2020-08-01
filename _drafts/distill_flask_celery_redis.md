@@ -1,1 +1,0 @@
-[Ir](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
