@@ -583,3 +583,5 @@ This will often lead to a blogpost with: <br/>
 - [How To Build Your Own MuZero AI Using Python](https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a)
 
 - [Google X and the Science of Radical Creativity](https://www.theatlantic.com/magazine/archive/2017/11/x-google-moonshot-factory/540648/)
+
+- [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
