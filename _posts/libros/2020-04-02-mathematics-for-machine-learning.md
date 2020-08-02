@@ -25,6 +25,9 @@ Topics
 ---
 
 <!--more-->
-TODO
+
+- [Mi Resumen](/libros/2020/04/02/mathematics-for-machine-learning/)
+- [Web Site](https://mml-book.github.io/)
+- [Jupyter notebooks for Chapter 2-7](https://github.com/vbartle/MML-Companion)
   
 Thanks for reading!
