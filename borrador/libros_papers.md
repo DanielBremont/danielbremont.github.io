@@ -14,3 +14,4 @@ title: Libros
 - [Lectures in Statistical and Financial Topics - Quantopian](https://www.quantopian.com/lectures)
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu)
 - [Notes Essays—Peter Thiel’s CS183](https://blakemasters.com/peter-thiels-cs183-startup)
+- [Using Computational Modeling for Building Theory: A Double Edged Sword](http://jasss.soc.surrey.ac.uk/19/3/8.html)

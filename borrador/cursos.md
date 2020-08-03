@@ -26,7 +26,8 @@ title: Cursos
 - [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 - [Probability and Statistics in Data Science using Python](https://www.edx.org/es/course/probability-and-statistics-in-data-science-using-p)
 - [Introduction to Probability](https://www.edx.org/es/course/introduction-to-probability)
-  
+- [Computational Probability and Inference](https://www.edx.org/es/course/computational-probability-and-inference)
+
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra - Foundations to Frontiers](http://ulaff.net/)
 - [Linear Algebra Done Right](http://linear.axler.net/)
@@ -42,26 +43,14 @@ title: Cursos
 - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
 
 - [Computational Thinking for Modeling and Simulation](https://www.edx.org/es/course/computational-thinking-for-modeling-and-simulation)
-- [The Nature of Mathematical Modeling](http://fab.cba.mit.edu/classes/864.17/index.html)
-- [Computational Probability and Inference](https://www.edx.org/es/course/computational-probability-and-inference)
-
 - [Computational modeling techniques](http://www.users.abo.fi/ipetre/compmod/)
+- [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+- [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics)
 
 - [Causal Inference](https://www.coursera.org/learn/causal-inference)
 - [Causal Inference 2](https://www.coursera.org/learn/causal-inference-2)
 
-- [Introduction to Modeling and Simulation](https://ocw.mit.edu/courses/materials-science-and-engineering/3-021j-introduction-to-modeling-and-simulation-spring-2012/)
-
-- [Stochastic Processes: Data Analysis and Computer Simulation](https://www.edx.org/es/course/stochastic-processes-data-analysis-and-computer-si)
-
-- [Stochastic processes](https://www.coursera.org/learn/stochasticprocesses)
-
-- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
-
-- [Computer Simulations](https://www.coursera.org/learn/computer-simulations)
-- [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
-
-- [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics)
+- [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 - [Topology Without Tears by Sidney A. Morris](http://www.topologywithouttears.net)
 
@@ -109,6 +98,8 @@ title: Cursos
   - [Transcription and Transposition](https://www.edx.org/es/course/molecular-biology-part-2-transcription-and-transposition)
   - [RNA Processing and Translation](https://www.edx.org/es/course/molecular-biology-part-3-rna-processing-and-transl)
 
+- [Principles of Synthetic Biology](https://www.edx.org/es/course/principles-of-synthetic-biology)
+
 - [Quantitative Biology Workshop](https://www.edx.org/es/course/quantitative-biology-workshop-3)
 
 - [Bio Academy](http://bio.academany.org/2017/)
@@ -125,9 +116,6 @@ title: Cursos
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-- [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1)
-- [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2)
-
 - [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   - [Curso](http://courses.pgbovine.net/csc253/schedule.htm)
   - [Eli Bendersky Python Internals](https://eli.thegreenplace.net/tag/python-internals)
@@ -135,13 +123,7 @@ title: Cursos
 - [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
 
 - [Computer Systems](https://my.eng.utah.edu/~cs4400/)
-
 - [Operating System (CS4414)](https://www.cs.virginia.edu/~cr4bd/4414/S2020)
-
-- [Intro to Database Systems (CMU 15-445/645)](https://15445.courses.cs.cmu.edu/fall2019/)
-- [Advanced Database Systems (CMU 15-721)](https://15721.courses.cs.cmu.edu/spring2019/)
-
-- [Computer Networks and Internet Protocol](https://onlinecourses.nptel.ac.in/noc20_cs23/course?user_email=dervin.bremont@gmail.com)
 - [Fundamentals of Computer Networks (14-740)](http://ini740.com/)
 
 - [Hacker101](https://www.hacker101.com/)
@@ -149,38 +131,20 @@ title: Cursos
 
 ## Economics, Negocios
 
-- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
-- [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
-- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
-- [Network Analysis and Modeling CSCI 5352](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
+- [Michigan University - Model Thinking](https://www.coursera.org/learn/model-thinking)
 
-- [Teoria de los Juegos](http://www.game-theory-class.org/)
-- [CS364A: Algorithmic Game Theory (Fall 2013)](http://timroughgarden.org/f13/f13.html)
-- [Introduction to Computational Economics (CPS 196.2), Spring 2007](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
+- [Stanford - Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+- [Santa Fe - Network Analysis and Modeling](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
+- [HSE - Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 
-- [Principles of Micro](https://www.mruniversity.com/courses/principles-economics-microeconomics)
-- [Principles of Macro](https://www.mruniversity.com/courses/principles-economics-macroeconomics)
-- [Economics of Money and Banking](https://www.coursera.org/learn/money-banking)
-- [Model Thinking](https://www.coursera.org/learn/model-thinking)
+- [Harvard - Economics and Computation](https://sites.google.com/g.harvard.edu/cs136/home?authuser=0)
+- [Duke - Introduction to Computational Economics](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
+- [Stanford - Incentives in Computer Science](http://timroughgarden.org/f18/f18.html)
 
-- [FE 670 - Algorithmic Trading](http://personal.stevens.edu/~syang14/fe670.htm)
-
-- [Economics and Computation](http://economicsandcomputation.org/ )
-- [Computer Science 136 Economics and Computation](https://sites.google.com/g.harvard.edu/cs136/home?authuser=0)
-- [CompSci 285: Multi-Agent Systems](https://www.seas.harvard.edu/courses/cs285/CS_285/Course_Home.html)
-- [CPSC455b: Economics and Computation](https://zoo.cs.yale.edu/classes/cs455/index2002.html)
-- [Economics and Computation](http://nas.iiis.tsinghua.edu.cn/~kenshin/ec/)
-- [CS 269I: Incentives in Computer Science](http://timroughgarden.org/f18/f18.html)
-- [CS364A: Algorithmic Game Theory (Fall 2013)](http://timroughgarden.org/f13/f13.html)
-
-- CS 7646: Machine Learning for Trading
+- Gatech CS 7646: Machine Learning for Trading
   - [Pagina](https://omscs.gatech.edu/cs-7646-machine-learning-trading)
   - [Videos](https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos)
-
-- [Classical Machine Learning for Financial Engineering](https://www.edx.org/es/course/classical-machine-learning-for-financial-engineering)
-
-- [Deep Learning and Neural Networks for Financial Engineering](https://www.edx.org/es/course/deep-learning-and-neural-networks-for-financial-engineering)
+- [NYU - Classical Machine Learning for Financial Engineering](https://www.edx.org/es/course/classical-machine-learning-for-financial-engineering)
+- [NYU - Deep Learning and Neural Networks for Financial Engineering](https://www.edx.org/es/course/deep-learning-and-neural-networks-for-financial-engineering)
 
 - [Startup School](https://www.startupschool.org/curriculum)
-
-- [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/)

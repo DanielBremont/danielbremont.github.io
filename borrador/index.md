@@ -585,3 +585,13 @@ This will often lead to a blogpost with: <br/>
 - [Google X and the Science of Radical Creativity](https://www.theatlantic.com/magazine/archive/2017/11/x-google-moonshot-factory/540648/)
 
 - [Reviewing the worst piece of code ever](https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever)
+
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+
+- [How We’re Solving Data Discovery Challenges at Shopify](https://engineering.shopify.com/blogs/engineering/solving-data-discovery-challenges-shopify)
+
+- [Computational Modeling](https://www.nibib.nih.gov/science-education/science-topics/computational-modeling)
+
+- [Computational models](https://www.nature.com/subjects/computational-models)
+
+- [Ten simple rules for the computational modeling of behavioral data](https://elifesciences.org/articles/49547)

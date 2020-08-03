@@ -119,3 +119,7 @@ title: Recursos
 - [Algorithms animated](https://www.chrislaux.com/)
 
 - [The Fab Academy - Global](http://fabacademy.org/2019/)
+
+- [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/)
+
+- [EconCS Group](https://econcs.seas.harvard.edu/home)
