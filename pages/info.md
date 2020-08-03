@@ -19,6 +19,7 @@ orden: 10
 - Inteligencia Artificial
 - Matemáticas aplicadas
 - Autoreflección/Autoanálisis
+- [Democracia Aumentada](https://www.peopledemocracy.com/)
 
 ## Pasiones Tecnicas
 

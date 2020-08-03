@@ -15,3 +15,13 @@ title: Libros
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu)
 - [Notes Essays—Peter Thiel’s CS183](https://blakemasters.com/peter-thiels-cs183-startup)
 - [Using Computational Modeling for Building Theory: A Double Edged Sword](http://jasss.soc.surrey.ac.uk/19/3/8.html)
+
+- [Reinforcement Learning: An Introduction - Pagina](http://incompleteideas.net/book/the-book-2nd.html)
+
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+
+- [Effective Python: 59 Specific Ways to Write Better Python](https://github.com/SigmaQuan/Better-Python-59-Ways)
+
+- [Introduction to Neural Network Models of Cognition](https://com-cog-book.github.io/com-cog-book/intro.html)
+
+- [Math ∩ Programming](https://jeremykun.com/main-content/)

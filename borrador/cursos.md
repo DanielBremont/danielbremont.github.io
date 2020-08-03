@@ -5,6 +5,14 @@ title: Cursos
 
 ## Cursos
 
+**Tabla de Contenidos**:
+
+- [Maths](#maths)
+- [ML](#ml)
+- [Science Fundamentals](#science-fundamentals)
+- [Computer Science](#computer-science)
+- [Economics, Negocios](#economics-negocios)
+
 ## Maths
 
 - [Single Variable Calculus SC](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
@@ -56,7 +64,7 @@ title: Cursos
 
 - [Math 331: Problem Solving](https://web.williams.edu/Mathematics/sjmiller/public_html/331Sp17/)
 
-## Data
+## ML
 
 - [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)

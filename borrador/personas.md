@@ -46,3 +46,5 @@ title: Personas
   - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=16703)
   - [Quotes](http://emanuelderman.com/quotes/)
   - [Blog](http://emanuelderman.com/blog/)
+
+- [Paul Romer](https://paulromer.net/archive/)
